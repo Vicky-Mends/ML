@@ -15,3 +15,7 @@ This project explores data preparation for a machine learning task involving sal
 - pandas
 - scikit-learn
 - Jupyter Notebook
+
+# Project status
+
+Data preparation completed. Training and evaluation of a salary prediction model have not yet been completed.
