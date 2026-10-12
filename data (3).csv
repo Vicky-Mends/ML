@@ -1,0 +1,1601 @@
+job_id,job_text,year,metro,remote,degree_required,company_type,years_experience,salary_usd
+XKJPJ3,staff product manager (B2B),2020,Austin TX,0,bachelors,startup,10,218205
+3GFIFX,senior cloud infrastructure engineer (cloud),2024,Boston,0,bachelors,corp,6,208804
+OTXU8G,cloud infrastructure engineer (cloud),2024,San Francisco,0,masters,big_tech,3,283959
+P86VBI,frontend engineer (new grad) (distributed systems),2016,Austin TX,1,bachelors,corp,1,133057
+XDI07I,senior full stack engineer (platform),2021,Seattle,1,bachelors,corp,9,270402
+M2CCQ4,machine learning engineer (new grad) (MLOps),2023,Boulder,0,masters,startup,1,196855
+O0PD7S,senior cloud infrastructure engineer,2024,Seattle,0,bachelors,startup,7,306042
+MSVXX8,site reliability engineer (payments),2017,San Francisco,0,masters,startup,6,285011
+11KZGT,mobile app developer (cloud),2024,San Francisco,0,masters,small_business,3,199792
+8XRRVY,cloud infrastructure engineer (entry level),2018,Boston,1,bachelors,corp,0,156716
+1LUSDL,senior mobile app developer (distributed systems),2018,San Francisco,0,bachelors,small_business,6,174224
+TOFTRT,lead full stack engineer (payments),2018,San Francisco,1,masters,startup,10,260977
+C84RXQ,IT support technician,2020,New York City,0,bachelors,startup,5,109680
+CZF525,mobile app developer (distributed systems),2021,Denver,0,bachelors,corp,4,160454
+QT42WP,principal software engineer (payments),2025,Raleigh NC,1,bachelors,small_business,12,242454
+GFD0ME,junior full stack engineer (cloud),2024,St. Louis,0,bachelors,startup,2,129464
+3W3X5O,network technician (entry level),2024,San Francisco,0,bachelors,corp,0,111688
+P3XY2E,software engineer (distributed systems),2022,Raleigh NC,0,bachelors,big_tech,4,214591
+QFBNQS,senior help desk specialist,2024,Kansas City MO,1,bachelors,startup,6,119723
+P8OVH0,mobile app developer (entry level) (cloud),2023,San Francisco,0,bachelors,big_tech,0,257206
+5ESC0M,mobile app developer (distributed systems),2023,Austin TX,0,masters,big_tech,4,189608
+YH4O5Q,frontend engineer (cloud),2024,San Antonio,0,bachelors,corp,6,111138
+VSHTVF,site reliability engineer,2020,Austin TX,1,masters,startup,6,189196
+133PU7,site reliability engineer (platform),2025,Buffalo,0,bachelors,startup,6,126848
+HLUJ34,junior software engineer (cloud),2023,Seattle,0,bachelors,big_tech,0,161108
+5ZP08S,lead software engineer (distributed systems),2022,Philadelphia,0,masters,corp,10,155928
+KRFW39,business analyst (experimentation),2021,New York City,0,bachelors,big_tech,4,233226
+9WGD6D,business analyst (SQL),2016,Buffalo,0,bachelors,small_business,2,64261
+S4QK0B,IT support technician (SaaS),2021,Chicago,0,none,corp,4,83690
+VM6WX1,mobile app developer (distributed systems),2021,New York City,0,bachelors,corp,2,197998
+9FIJ4A,business analyst (SQL),2023,San Francisco,0,bachelors,startup,2,190651
+TAK03O,site reliability engineer (cloud),2018,San Francisco,0,masters,big_tech,6,259741
+1QY3OM,lead mobile app developer (distributed systems),2019,Seattle,0,bachelors,corp,12,231042
+9I4IWQ,mobile app developer (payments),2016,San Antonio,0,none,big_tech,6,126629
+H2FXV1,executive assistant (operations),2021,San Francisco,0,none,big_tech,5,115531
+CUWCNE,lead analytics engineer (dashboarding),2022,San Francisco,0,bachelors,big_tech,12,244166
+MQQ8EF,mobile app developer (payments),2016,Raleigh NC,0,masters,corp,3,132869
+BMX2HC,senior analytics engineer,2019,Raleigh NC,1,bachelors,startup,6,130552
+9V9W5V,lead ML platform engineer,2025,Dallas,0,masters,big_tech,11,327587
+XLGZNW,product operations specialist,2025,Seattle,1,bachelors,corp,4,213295
+CMPBGO,lead mobile app developer (platform),2020,Orlando,0,bachelors,corp,11,147493
+C8EV7P,BI analyst (SQL),2017,San Francisco,0,none,big_tech,4,162920
+DUNHZ0,software engineer (security),2021,New York City,0,none,startup,4,187924
+NU3REQ,senior operations analyst (experimentation),2018,Boston,0,bachelors,corp,10,147576
+EC9EZC,full stack engineer (platform),2022,Denver,0,none,startup,2,145424
+2JSZQV,program manager (growth),2024,New York City,0,bachelors,big_tech,6,305274
+70IAY1,senior backend engineer,2021,San Francisco,0,bachelors,startup,7,264061
+9L9WZO,site reliability engineer,2024,Austin TX,0,bachelors,startup,5,204779
+0UA76Y,staff site reliability engineer (distributed systems),2023,San Antonio,0,none,small_business,8,119984
+GC5IMV,business analyst (dashboarding),2023,Austin TX,1,bachelors,small_business,4,116441
+2FE89H,software engineer,2020,New York City,0,bachelors,corp,6,211931
+CHIVIN,product manager (new grad) (AI),2020,Austin TX,1,bachelors,big_tech,0,242216
+I9I4JS,senior frontend engineer (platform),2022,Raleigh NC,0,bachelors,small_business,5,121664
+VB70CN,frontend engineer (cloud),2023,Raleigh NC,0,bachelors,corp,3,169374
+91MQJQ,desktop support technician,2024,St. Louis,0,bachelors,corp,5,81255
+C3C471,junior computer vision engineer (LLMs),2022,Boston,0,masters,big_tech,2,241770
+17Y2QQ,desktop support technician (Windows/Mac),2022,Seattle,0,bachelors,corp,2,116320
+AJ9ZMI,analytics engineer,2025,Kansas City MO,0,bachelors,startup,3,121302
+ZLTD5K,junior desktop support technician (Windows/Mac),2020,Seattle,0,bachelors,startup,0,82093
+TRL6F8,technical product manager,2022,Philadelphia,0,masters,corp,3,167953
+DCNSF3,full stack engineer (entry level) (distributed systems),2022,Seattle,0,bachelors,corp,1,203865
+SISAUC,executive assistant (entry level),2022,Dallas,0,bachelors,corp,0,50446
+60AOBR,junior business analyst,2019,San Francisco,0,bachelors,big_tech,1,208277
+3NESCJ,"research scientist, computer vision (entry level)",2022,New York City,0,masters,big_tech,0,276465
+G3IP95,software engineer intern (distributed systems),2025,Chicago,0,masters,corp,0,171678
+827SNI,lead frontend engineer (security),2019,Seattle,0,bachelors,small_business,8,161805
+TQNG25,junior frontend engineer (security),2024,St. Louis,0,bachelors,big_tech,2,158430
+GNQEKF,senior NLP engineer (MLOps),2025,Philadelphia,0,bachelors,big_tech,5,233364
+9AZT0X,ML platform engineer (entry level) (NLP),2023,San Francisco,0,masters,corp,1,260957
+K6X7RS,junior AI product engineer (MLOps),2023,Seattle,0,masters,big_tech,2,235681
+EK75P9,site reliability engineer (platform),2025,Boulder,0,bachelors,big_tech,6,292818
+NMI047,senior BI analyst,2020,San Francisco,0,masters,big_tech,10,245100
+ZMD98C,full stack engineer (cloud),2022,New York City,0,bachelors,corp,5,188511
+KFYJ4T,frontend engineer intern (distributed systems),2021,Denver,1,masters,small_business,0,122968
+3AVX0T,senior mobile app developer,2022,New York City,0,bachelors,small_business,9,190865
+Z8GC0V,senior backend engineer (cloud),2019,Denver,0,bachelors,corp,8,150480
+SIPNN7,lead AI product engineer (LLMs),2022,San Francisco,0,masters,startup,8,371008
+QOR34L,principal program manager,2019,Raleigh NC,0,bachelors,small_business,10,133908
+EP7JL9,senior backend engineer (distributed systems),2022,Boston,0,bachelors,big_tech,7,297816
+SHPK5T,junior recruiting coordinator (HR),2017,Orlando,0,none,corp,1,40898
+M33EFV,software engineer (payments),2025,Miami,0,bachelors,big_tech,2,176952
+CDYLRO,junior cloud infrastructure engineer (security),2022,San Francisco,0,bachelors,big_tech,0,231671
+KOZIAW,full stack engineer (entry level) (payments),2024,San Francisco,0,bachelors,corp,0,201746
+ABBEJD,systems administrator (entry level) (networking),2023,San Antonio,0,none,big_tech,1,80759
+UJLA2S,full stack engineer (cloud),2025,San Francisco,0,bachelors,corp,4,199028
+KPTENZ,senior mobile app developer (security),2022,Austin TX,0,bachelors,small_business,10,162236
+IHTJVY,product manager (new grad) (platform),2019,New York City,0,masters,big_tech,1,200971
+YTKXZW,cloud infrastructure engineer (platform),2021,San Francisco,0,bachelors,startup,2,240777
+DE5LV4,HR coordinator (finance),2020,Seattle,0,bachelors,corp,2,85443
+1SEDGQ,principal software engineer (payments),2019,San Francisco,0,bachelors,big_tech,10,254726
+1L78XU,senior frontend engineer (payments),2023,Raleigh NC,0,masters,big_tech,8,224377
+YY3EAO,principal full stack engineer (platform),2023,New York City,0,bachelors,startup,13,291182
+XIABHK,"research scientist, NLP (applied ML)",2021,San Francisco,0,bachelors,big_tech,2,409707
+J25ISZ,lead ML platform engineer,2023,San Francisco,0,bachelors,big_tech,10,416083
+WTAL7U,software engineer (entry level) (payments),2021,Boston,0,bachelors,big_tech,1,203690
+SH1IGA,backend engineer,2022,Raleigh NC,0,masters,corp,6,162610
+28EUTQ,principal product manager,2023,Seattle,0,bachelors,small_business,13,174393
+4PX2I4,AI product engineer (LLMs),2023,San Antonio,1,masters,startup,3,199313
+U91ZZH,technical project manager (entry level) (platform),2019,Raleigh NC,0,bachelors,startup,0,151338
+085ACS,program manager,2022,Denver,0,bachelors,big_tech,5,238265
+XLRHMA,help desk specialist,2023,San Antonio,0,none,big_tech,2,106836
+LU25YT,AI product engineer (MLOps),2022,Orlando,0,masters,startup,6,171192
+I36OA9,lead full stack engineer (platform),2020,Boston,0,none,big_tech,11,244783
+PAT4MN,senior backend engineer (security),2025,Seattle,0,masters,startup,7,272909
+7O0LTE,business analyst (entry level) (SQL),2023,Miami,0,bachelors,corp,1,99687
+TZPVMQ,data analyst,2022,Austin TX,0,bachelors,corp,2,113298
+R68V7F,office administrator,2021,Austin TX,0,bachelors,startup,3,88913
+ZLPJUE,principal analytics engineer (SQL),2023,Austin TX,0,bachelors,big_tech,12,222896
+HM09EX,cloud infrastructure engineer (payments),2019,Boston,1,bachelors,corp,6,184436
+M6H842,cloud infrastructure engineer (distributed systems),2022,New York City,0,bachelors,big_tech,3,259749
+31EN56,junior help desk specialist (networking),2023,St. Louis,0,none,corp,2,74493
+HB955T,senior technical product manager (B2B),2020,San Francisco,0,bachelors,big_tech,10,420000
+JO5EQ5,machine learning engineer (entry level) (MLOps),2024,Boston,1,masters,startup,1,227255
+4DZ8KJ,frontend engineer (cloud),2016,Boston,0,bachelors,startup,2,156730
+W1WDA7,machine learning engineer (entry level) (recommendation systems),2021,Denver,0,bachelors,small_business,0,144244
+EDBN4C,backend engineer (payments),2024,St. Louis,0,bachelors,big_tech,4,167572
+D7TLGV,staff mobile app developer (platform),2023,New York City,1,bachelors,big_tech,11,379475
+SVB5E0,junior desktop support technician (networking),2021,Seattle,0,bachelors,big_tech,2,110136
+DSB8AA,junior IT support technician (networking),2023,St. Louis,0,none,corp,1,65539
+RJPC1P,NLP engineer (LLMs),2025,San Francisco,0,masters,small_business,2,266227
+NDBFCF,backend engineer (security),2022,Boston,0,masters,big_tech,2,250066
+61ASM0,junior product manager (B2B),2021,San Francisco,0,bachelors,startup,1,209635
+RY6IC8,full stack engineer (entry level) (distributed systems),2021,Orlando,0,bachelors,startup,1,106526
+9ZH5EY,AI product engineer (MLOps),2022,Chicago,0,masters,startup,6,277148
+W1HA3U,full stack engineer (entry level) (platform),2016,Austin TX,0,bachelors,big_tech,0,168038
+EMT9SD,frontend engineer (new grad) (cloud),2022,San Francisco,0,bachelors,corp,1,179271
+BHQL8Y,lead software engineer (distributed systems),2018,Boulder,1,masters,corp,11,249105
+F3MWSS,cloud infrastructure engineer (entry level) (distributed systems),2018,St. Louis,0,bachelors,startup,0,123058
+OAJ6L4,site reliability engineer intern (security),2018,Boulder,1,bachelors,corp,0,167010
+1DW488,staff technical product manager (growth),2021,New York City,0,bachelors,big_tech,9,362046
+4CR9C4,technical product manager (entry level),2017,Seattle,1,bachelors,startup,0,200355
+5KOG9N,junior data analyst,2022,San Antonio,1,bachelors,corp,0,91751
+1L421I,technical project manager (B2B),2020,Boulder,0,bachelors,corp,3,203236
+T6A9KW,full stack engineer (distributed systems),2023,New York City,0,bachelors,big_tech,6,259439
+UXW27O,backend engineer (entry level) (cloud),2022,San Francisco,1,bachelors,big_tech,0,263669
+QN37GS,technical product manager intern (growth),2021,San Francisco,0,bachelors,big_tech,0,352661
+3UKKJI,data analyst (SQL),2018,Seattle,0,bachelors,startup,2,158432
+S6UCFV,NLP engineer (entry level) (MLOps),2021,Kansas City MO,0,phd,big_tech,1,233300
+74Z4XK,executive assistant intern (finance),2021,San Francisco,0,bachelors,big_tech,0,96265
+GAHQG8,cloud infrastructure engineer (entry level) (cloud),2024,Orlando,0,bachelors,corp,0,104290
+7KEIY2,product manager (AI),2022,Boulder,0,none,corp,6,156303
+WNHMZG,cloud infrastructure engineer (entry level) (security),2021,New York City,0,bachelors,small_business,1,202507
+559QK9,AI product engineer (MLOps),2023,Seattle,0,masters,startup,4,273790
+MYF2XW,office administrator (new grad),2021,Boston,0,none,corp,0,63944
+GUZ7CH,administrative assistant (finance),2022,San Francisco,0,none,big_tech,2,117547
+E6UQKU,junior analytics engineer (SQL),2022,Seattle,1,masters,corp,2,173729
+MP71WE,junior operations analyst (SQL),2022,San Francisco,0,masters,corp,1,139968
+DJSROJ,lead network technician (SaaS),2022,Boulder,1,none,big_tech,12,184559
+IT7H7J,senior operations analyst (experimentation),2020,Seattle,0,bachelors,big_tech,10,199160
+XE8NJX,analytics engineer (experimentation),2023,San Francisco,0,bachelors,small_business,2,135962
+Y3N9JO,technical product manager (platform),2022,New York City,0,bachelors,startup,5,276805
+FAYLL2,full stack engineer (security),2017,Seattle,0,bachelors,big_tech,6,207992
+PKGNMD,desktop support technician (SaaS),2018,Seattle,0,none,corp,3,74059
+W7P582,senior frontend engineer (distributed systems),2017,New York City,0,bachelors,corp,5,159150
+TV1T10,operations analyst (SQL),2022,Seattle,0,masters,startup,5,148805
+C80RO8,cloud infrastructure engineer (payments),2024,Austin TX,0,bachelors,corp,3,150348
+VM520P,backend engineer (cloud),2021,Kansas City MO,1,bachelors,small_business,2,134783
+TBBCLK,junior frontend engineer (cloud),2019,New York City,0,masters,big_tech,0,234545
+ZE2L2Y,frontend engineer (platform),2022,Seattle,0,bachelors,corp,2,174289
+34XSLK,senior desktop support technician (networking),2017,San Francisco,0,none,big_tech,9,145189
+L4AEQJ,technical project manager intern,2021,New York City,0,bachelors,startup,0,216287
+MS21OI,software engineer (cloud),2023,San Francisco,0,bachelors,big_tech,5,301480
+WO61FL,help desk specialist (Windows/Mac),2018,Austin TX,0,bachelors,startup,6,102454
+HI8HYK,systems administrator (entry level) (Windows/Mac),2021,San Francisco,0,none,big_tech,1,131467
+CAGJBI,lead recruiting coordinator (HR),2020,Denver,0,bachelors,big_tech,10,70940
+CSXDHI,principal recruiting coordinator (HR),2021,Chicago,0,bachelors,corp,13,94763
+WLMGWB,technical product manager (entry level) (platform),2021,San Francisco,0,masters,startup,1,283866
+C6ZR1B,junior product operations specialist (growth),2022,New York City,0,masters,corp,0,184027
+ZOU1B8,senior IT support technician (Windows/Mac),2022,San Francisco,0,none,corp,9,118531
+3FRMM3,senior site reliability engineer (payments),2021,Raleigh NC,0,bachelors,corp,6,142756
+M5JTUP,frontend engineer (distributed systems),2024,San Francisco,0,bachelors,small_business,6,225242
+CA1QI3,senior desktop support technician (networking),2018,San Francisco,0,none,startup,8,157135
+N6D6H9,business analyst (SQL),2024,New York City,1,masters,big_tech,6,225232
+4R1G3E,BI analyst (dashboarding),2024,San Francisco,0,bachelors,startup,5,195552
+GXY10E,product manager intern,2023,New York City,0,bachelors,big_tech,0,233714
+CMTVMM,program manager intern,2023,Seattle,0,masters,corp,0,206637
+0RFWSN,senior site reliability engineer,2021,San Francisco,0,bachelors,small_business,10,176668
+OQ323D,site reliability engineer (entry level) (distributed systems),2021,San Francisco,0,bachelors,corp,1,156986
+1XBYAE,product manager,2021,Boulder,0,bachelors,big_tech,3,207252
+1JMPNN,principal site reliability engineer (security),2018,Kansas City MO,0,bachelors,corp,11,135139
+F17NGD,business analyst (entry level) (experimentation),2019,San Francisco,0,none,big_tech,0,123995
+L461QT,junior product manager (platform),2022,New York City,0,bachelors,corp,0,198259
+MM0000,technical product manager (AI),2024,San Francisco,0,bachelors,startup,5,291150
+9KX4BJ,junior mobile app developer (security),2025,Boulder,0,bachelors,big_tech,2,157878
+PMZ965,cloud infrastructure engineer (cloud),2023,Raleigh NC,0,masters,small_business,5,126319
+N1BIGO,junior mobile app developer (cloud),2022,Austin TX,0,none,corp,0,105676
+H4T3H6,AI product engineer (computer vision),2023,New York City,0,masters,startup,2,355431
+8B53QJ,principal mobile app developer,2021,Denver,0,bachelors,small_business,14,195751
+HI3LU6,executive assistant (HR),2020,Raleigh NC,0,none,corp,3,55755
+N0LOS3,cloud infrastructure engineer (security),2024,Austin TX,0,bachelors,small_business,4,147790
+VPKB4V,senior analytics engineer (dashboarding),2024,Raleigh NC,0,bachelors,startup,5,130274
+6KLBNG,lead help desk specialist,2019,Seattle,0,bachelors,startup,10,133468
+BPIDH7,junior full stack engineer,2022,Austin TX,0,bachelors,corp,1,164954
+2Y0Y9A,junior frontend engineer (platform),2021,Raleigh NC,0,bachelors,startup,1,178670
+KREGAP,cloud infrastructure engineer (security),2022,Denver,0,bachelors,corp,4,142513
+V4T6DG,network technician (SaaS),2017,Seattle,0,none,corp,3,81477
+XQULA5,staff ML platform engineer (LLMs),2024,Seattle,0,bachelors,big_tech,8,298973
+IKSPDT,senior BI analyst,2022,New York City,0,masters,startup,10,214295
+1JYYDV,senior systems administrator (Windows/Mac),2024,Buffalo,1,none,corp,5,82098
+FCPCES,senior business analyst (experimentation),2019,New York City,0,bachelors,corp,10,124857
+NCRFTB,analytics engineer (new grad) (dashboarding),2021,Austin TX,0,bachelors,startup,0,128584
+86UCQQ,senior full stack engineer (security),2022,Denver,0,masters,small_business,9,191654
+OBTI91,cloud infrastructure engineer (security),2020,San Francisco,0,masters,big_tech,4,251161
+YSN7W0,junior desktop support technician (Windows/Mac),2023,San Francisco,0,none,small_business,1,67688
+XR3BCD,full stack engineer (platform),2019,San Francisco,1,none,big_tech,4,272989
+7XZEQP,lead full stack engineer (security),2024,Denver,0,bachelors,corp,9,220021
+Q0HP2M,junior site reliability engineer (platform),2023,Seattle,0,none,small_business,1,148352
+4PXAMI,junior IT support technician (SaaS),2020,San Antonio,0,bachelors,startup,1,67184
+XTAWU5,business analyst,2022,San Francisco,0,bachelors,corp,6,129548
+HU73FS,junior desktop support technician,2020,Seattle,0,none,corp,1,90127
+IACE32,staff frontend engineer (distributed systems),2022,Buffalo,0,masters,big_tech,10,187887
+MLEGTV,frontend engineer (cloud),2022,Miami,0,bachelors,small_business,6,116673
+Q1HWGQ,senior site reliability engineer (cloud),2025,Austin TX,0,masters,corp,9,220834
+Z8JDOL,full stack engineer (security),2023,Buffalo,1,bachelors,corp,3,137873
+FCE4QF,lead cloud infrastructure engineer,2023,Seattle,0,bachelors,big_tech,9,290977
+M2DAVF,principal research scientist (NLP),2017,New York City,1,phd,startup,14,420000
+60AQYC,software engineer (security),2022,San Francisco,1,masters,startup,3,252148
+KOI11E,technical project manager intern (AI),2024,Chicago,0,masters,startup,0,214102
+88ADHL,software engineer (security),2020,San Antonio,0,bachelors,corp,5,111859
+G0LD6A,systems administrator,2023,San Francisco,0,bachelors,big_tech,5,169455
+2L1XPQ,software engineer (distributed systems),2022,San Francisco,1,masters,small_business,2,236726
+U04P3T,IT support technician (Windows/Mac),2025,Denver,0,bachelors,corp,3,74572
+R2696H,operations analyst (experimentation),2021,Philadelphia,0,bachelors,corp,5,120225
+EOMA4Q,applied scientist (new grad) (computer vision),2025,New York City,0,phd,big_tech,1,420000
+V2HBFH,data analyst (experimentation),2021,Boulder,0,bachelors,corp,5,132976
+148ON7,lead IT support technician (SaaS),2024,San Francisco,0,bachelors,corp,10,164089
+T4YLEC,lead software engineer (platform),2022,New York City,0,bachelors,big_tech,9,225130
+WUOMFV,product operations specialist,2020,Buffalo,0,bachelors,small_business,6,134182
+B4W5PS,senior mobile app developer (payments),2021,San Francisco,0,bachelors,big_tech,9,349373
+D4SRLG,technical product manager (platform),2022,Seattle,0,bachelors,startup,4,225595
+0XK7B3,analytics engineer (SQL),2017,Buffalo,0,masters,corp,5,72584
+LF0T2L,staff mobile app developer (distributed systems),2020,San Francisco,0,none,startup,11,272715
+IYVD59,junior research scientist (NLP),2022,Raleigh NC,0,bachelors,corp,0,171168
+MA30D9,BI analyst,2019,San Francisco,0,none,big_tech,5,166884
+XYKTN1,junior backend engineer (distributed systems),2023,Buffalo,0,bachelors,corp,2,123464
+7QUCMU,senior analytics engineer,2023,Philadelphia,0,bachelors,startup,5,156316
+H3Q00Y,site reliability engineer (platform),2019,San Francisco,0,bachelors,corp,3,169250
+FQ3KH6,product operations specialist (growth),2019,Seattle,0,bachelors,corp,4,187315
+M08ERP,analytics engineer (entry level) (experimentation),2024,Denver,0,bachelors,startup,0,149496
+P9BO4Q,senior data analyst,2022,San Francisco,0,bachelors,startup,9,202956
+5PXWLD,senior machine learning engineer,2021,New York City,0,masters,startup,7,352060
+MTZJC3,principal research scientist (applied ML),2021,St. Louis,0,phd,corp,15,261285
+BJIBUD,backend engineer,2023,New York City,0,none,small_business,4,152202
+I2H2Y2,junior applied scientist,2024,Boston,0,bachelors,big_tech,1,252351
+0DZ481,cloud infrastructure engineer (entry level),2024,New York City,0,bachelors,corp,1,188733
+G52W7P,junior mobile app developer (payments),2023,St. Louis,0,bachelors,big_tech,0,154821
+NMKMN2,AI product engineer (computer vision),2024,Austin TX,0,masters,corp,5,258554
+9UTQXY,systems administrator (Windows/Mac),2023,Seattle,0,none,corp,2,90174
+OSV7I0,senior mobile app developer,2018,Austin TX,0,masters,corp,10,206523
+N3PGWW,junior executive assistant (operations),2018,New York City,0,none,startup,0,68039
+I9S6W7,applied scientist (NLP),2023,Raleigh NC,0,masters,big_tech,3,233846
+SB5W94,senior operations analyst (experimentation),2019,San Francisco,0,bachelors,small_business,9,139142
+UCT894,senior data analyst (experimentation),2019,Boston,0,masters,big_tech,7,221730
+QM2HXE,senior full stack engineer (platform),2023,Denver,0,none,corp,8,140643
+MBP5YR,full stack engineer (security),2022,San Francisco,0,bachelors,startup,6,229210
+F0BI7G,frontend engineer,2019,New York City,0,bachelors,small_business,2,115180
+N99NE2,senior data analyst (SQL),2018,San Francisco,1,bachelors,startup,8,220991
+R9PGWA,"research scientist, computer vision (entry level)",2024,Dallas,1,phd,big_tech,1,418143
+3A7KIU,junior frontend engineer,2021,Austin TX,0,bachelors,startup,2,135160
+PVJU5Z,lead full stack engineer (payments),2023,Boston,0,bachelors,startup,10,287435
+E5MVP2,office administrator (finance),2025,New York City,0,none,big_tech,5,106624
+LTZFF1,senior operations analyst,2023,Boston,0,bachelors,corp,10,190559
+WCWW57,"lead research scientist, NLP (NLP)",2022,New York City,0,phd,small_business,10,329591
+ZATV16,senior frontend engineer (cloud),2019,New York City,0,bachelors,small_business,5,164995
+DSH9S3,junior IT support technician,2024,Boston,0,bachelors,small_business,1,101494
+WO9JDY,junior ML platform engineer (MLOps),2022,Austin TX,0,bachelors,small_business,0,142342
+YO1C60,junior operations analyst (dashboarding),2019,Boulder,0,bachelors,corp,0,94293
+OJ39WE,junior program manager (AI),2024,Boston,0,masters,small_business,0,152655
+PL2SVH,ML platform engineer (MLOps),2025,St. Louis,1,phd,small_business,4,216342
+TYH5UV,full stack engineer intern,2019,Denver,0,bachelors,big_tech,0,191423
+GT4Q7F,BI analyst (experimentation),2023,San Francisco,0,bachelors,big_tech,4,216809
+5OF7L5,staff NLP engineer (computer vision),2022,Boston,0,bachelors,big_tech,9,277612
+7T24YS,junior desktop support technician (networking),2021,St. Louis,0,bachelors,big_tech,1,90982
+PWJ8OS,systems administrator,2022,Austin TX,0,none,startup,2,86424
+NU3YCT,NLP engineer (LLMs),2022,Boise ID,0,bachelors,startup,2,147707
+6C389P,help desk specialist (new grad) (networking),2023,Seattle,0,none,small_business,1,70186
+AN20A2,desktop support technician (new grad),2019,Boulder,0,none,corp,0,77377
+DNWP77,operations analyst (dashboarding),2024,Buffalo,0,bachelors,corp,6,116947
+XPHNMO,product manager,2022,St. Louis,0,bachelors,corp,2,144549
+PCP4IN,senior cloud infrastructure engineer (platform),2025,Raleigh NC,0,masters,startup,9,232075
+GBUAVT,mobile app developer (payments),2021,San Francisco,0,bachelors,startup,3,232826
+6KSSZF,cloud infrastructure engineer (new grad) (distributed systems),2017,Boston,0,masters,big_tech,0,207413
+PJZS9I,lead systems administrator (SaaS),2021,Buffalo,0,none,corp,10,63883
+DR9S7G,program manager (growth),2021,Chicago,0,masters,small_business,2,142683
+1JB43C,junior help desk specialist (Windows/Mac),2022,Seattle,0,none,small_business,0,79835
+IZVCW7,senior product operations specialist (AI),2022,San Francisco,0,masters,big_tech,5,362009
+WJ4Y1F,software engineer (cloud),2022,Kansas City MO,0,bachelors,corp,4,126586
+LMCSQU,senior research scientist (computer vision),2023,New York City,0,phd,big_tech,7,420000
+XDI460,junior site reliability engineer,2023,Kansas City MO,0,bachelors,big_tech,2,162922
+NT5M3K,principal frontend engineer (platform),2018,Philadelphia,0,bachelors,big_tech,11,217700
+RX77E2,senior frontend engineer (distributed systems),2023,San Francisco,0,bachelors,startup,10,280380
+8PFCJ0,mobile app developer (security),2022,Denver,0,bachelors,big_tech,6,198981
+JAT99Y,research scientist (NLP),2023,San Francisco,0,phd,big_tech,3,420000
+T99ZVY,junior business analyst,2021,Raleigh NC,0,masters,startup,1,119378
+K6YMMM,junior applied scientist (recommendation systems),2021,Austin TX,0,phd,big_tech,0,246216
+CFU5FP,software engineer (entry level) (payments),2022,Miami,0,none,small_business,1,93302
+RUB2SO,principal research scientist (entry level) (applied ML),2021,Austin TX,0,phd,small_business,1,155424
+TQ2SSK,mobile app developer (security),2023,Philadelphia,0,bachelors,big_tech,6,200959
+UWGBQI,product operations specialist,2019,New York City,0,bachelors,small_business,2,165028
+I2JA4Z,full stack engineer,2022,New York City,0,bachelors,corp,5,166042
+8OW59S,senior BI analyst,2024,Raleigh NC,0,bachelors,big_tech,9,204058
+M0VJWC,research scientist (computer vision),2022,New Orleans LA,0,masters,startup,3,218763
+4Z0MKJ,senior software engineer (security),2021,San Francisco,0,bachelors,big_tech,6,301042
+V2HYAJ,BI analyst (dashboarding),2022,Raleigh NC,0,bachelors,big_tech,5,143031
+U0MD5R,staff HR coordinator,2020,Denver,0,bachelors,corp,8,78983
+U4B21O,senior mobile app developer (payments),2017,New York City,0,bachelors,startup,8,157074
+Y67CXU,software engineer (cloud),2020,New York City,0,bachelors,startup,4,207367
+CXI4LB,staff cloud infrastructure engineer (security),2023,Seattle,0,masters,startup,10,298548
+0M5ZOG,lead site reliability engineer (payments),2021,New York City,0,bachelors,big_tech,11,357796
+PZ3M4O,junior product manager (platform),2023,St. Louis,0,masters,corp,1,148043
+OWUSAJ,help desk specialist (new grad),2022,San Antonio,0,none,small_business,0,48290
+L55JD4,analytics engineer (entry level),2024,San Francisco,0,bachelors,big_tech,1,182152
+WKLENA,product manager (platform),2021,Boston,0,masters,startup,5,224563
+NHZ298,"staff research scientist, NLP (NLP)",2022,St. Louis,0,phd,big_tech,12,386582
+VQLJB4,program manager (B2B),2020,San Francisco,0,bachelors,big_tech,6,343497
+JVU1ZC,help desk specialist (SaaS),2019,Boston,1,none,small_business,2,71507
+K5DAT4,help desk specialist intern,2023,Seattle,0,bachelors,big_tech,0,150927
+P1AO2Q,principal backend engineer (platform),2019,San Francisco,0,bachelors,big_tech,13,306591
+0IH88X,full stack engineer (entry level) (distributed systems),2023,New York City,0,bachelors,corp,0,166361
+0P9X2H,computer vision engineer intern (recommendation systems),2022,Austin TX,0,masters,small_business,0,168482
+3N1HD9,applied scientist (recommendation systems),2020,San Francisco,0,masters,small_business,3,231220
+YSIEBJ,site reliability engineer (distributed systems),2023,New York City,0,masters,big_tech,2,284918
+KQMVFA,help desk specialist,2016,Seattle,0,none,small_business,3,63598
+LF664H,lead business analyst,2023,New York City,0,bachelors,small_business,11,162856
+XNJTTZ,AI product engineer (entry level) (NLP),2024,Austin TX,0,bachelors,startup,0,250608
+ZXNXE4,business analyst intern,2024,New York City,0,bachelors,small_business,0,102109
+1BV6XY,program manager (platform),2024,Raleigh NC,0,bachelors,corp,5,198907
+4U3QHV,senior systems administrator (networking),2025,Boston,0,bachelors,corp,5,112296
+TOK37X,operations analyst (entry level) (dashboarding),2022,Chicago,0,masters,big_tech,0,162862
+OZWU1Z,software engineer (entry level) (distributed systems),2023,San Francisco,0,bachelors,big_tech,1,255473
+KKK9R2,"research scientist, NLP (new grad) (computer vision)",2020,Seattle,0,phd,corp,0,218661
+LJF2OT,data analyst (entry level) (experimentation),2024,San Francisco,0,bachelors,big_tech,0,178264
+FQJW4L,network technician,2020,San Francisco,0,bachelors,small_business,6,92367
+65XS07,product operations specialist (entry level) (B2B),2021,San Francisco,0,none,startup,0,219279
+LN842M,product operations specialist (platform),2025,New York City,0,masters,corp,5,284226
+9O209B,executive assistant (entry level),2025,Seattle,0,none,startup,1,67097
+03UF1X,cloud infrastructure engineer (payments),2020,Boston,0,bachelors,big_tech,5,196328
+834WX7,senior backend engineer (cloud),2017,Boise ID,0,bachelors,startup,6,134035
+KHDSXR,senior desktop support technician (networking),2021,San Francisco,0,bachelors,corp,6,137298
+ES33F8,senior applied scientist (recommendation systems),2022,Seattle,0,masters,corp,9,283258
+L8MB2B,product operations specialist (AI),2024,Seattle,0,bachelors,startup,4,245019
+A7QG7R,full stack engineer,2021,Seattle,0,bachelors,corp,3,147944
+2WY1IH,principal mobile app developer (payments),2022,Seattle,0,bachelors,corp,13,249713
+F2X973,staff BI analyst (experimentation),2020,San Antonio,0,masters,corp,11,111379
+LFH8Q3,desktop support technician,2023,Denver,0,none,startup,6,88066
+ARD92P,backend engineer (security),2023,New York City,1,masters,big_tech,4,275139
+QJAAJY,data analyst (dashboarding),2023,Seattle,0,none,small_business,5,115325
+LWNFB9,frontend engineer,2019,Des Moines IA,0,bachelors,big_tech,5,160871
+971WIF,research scientist intern,2022,Boston,1,phd,startup,0,323338
+HG8PCF,office coordinator,2024,Austin TX,0,bachelors,corp,4,74299
+AM2RTL,lead data analyst (SQL),2021,New York City,0,bachelors,big_tech,10,240199
+BJ0HT0,senior frontend engineer (distributed systems),2020,New York City,0,masters,corp,7,219664
+DODWJU,network technician (entry level) (Windows/Mac),2020,New York City,0,none,corp,1,96668
+EPJ4C7,business analyst (entry level) (experimentation),2021,Boston,0,bachelors,small_business,1,137097
+DPNMKJ,senior full stack engineer (platform),2020,Raleigh NC,0,masters,corp,5,133855
+Z5JV7S,cloud infrastructure engineer (payments),2020,New York City,0,none,big_tech,3,229830
+OU5WF8,desktop support technician (entry level) (SaaS),2022,San Antonio,1,bachelors,small_business,0,51009
+JZ8CKS,analytics engineer (experimentation),2021,San Francisco,0,bachelors,startup,4,195192
+U77B7R,junior machine learning engineer (LLMs),2022,Boston,0,bachelors,startup,2,219398
+09UDSY,staff machine learning engineer (computer vision),2022,Austin TX,0,bachelors,big_tech,13,298303
+L4M2U3,principal software engineer (distributed systems),2020,Dallas,0,bachelors,startup,15,220109
+R9UP2Z,data analyst (SQL),2020,New York City,0,bachelors,big_tech,6,200757
+NXPFFQ,lead frontend engineer (platform),2022,Buffalo,0,bachelors,startup,8,162772
+TBXC27,technical product manager (growth),2018,San Francisco,0,masters,small_business,2,146886
+C2PFV5,BI analyst (new grad) (dashboarding),2021,Boston,0,bachelors,big_tech,1,187499
+L4P69B,lead business analyst (SQL),2021,Raleigh NC,0,none,corp,11,128323
+IW39XZ,junior software engineer (distributed systems),2020,New York City,1,none,startup,0,153961
+7JWYLJ,product manager (AI),2020,Austin TX,0,masters,corp,2,164705
+0JWX33,office coordinator (finance),2023,Seattle,0,bachelors,corp,2,77178
+6MJQ7V,program manager (growth),2023,Boston,0,bachelors,big_tech,4,250574
+P3YK0L,systems administrator (Windows/Mac),2022,Seattle,1,bachelors,corp,2,105608
+CQATM5,software engineer (payments),2017,San Francisco,0,bachelors,startup,2,172179
+1A5H3C,desktop support technician intern (networking),2023,San Antonio,0,none,startup,0,55413
+2YXFDR,business analyst (experimentation),2022,Seattle,0,masters,startup,5,209998
+ZTQHLC,lead applied scientist (MLOps),2021,Seattle,1,masters,corp,9,283764
+IOMWA5,senior office administrator,2021,San Francisco,0,bachelors,startup,6,104471
+6JVCUL,applied scientist (computer vision),2025,New York City,1,masters,corp,5,252187
+79FUDQ,principal site reliability engineer (security),2023,Seattle,1,none,startup,15,298658
+V02KFV,senior AI product engineer (LLMs),2023,New York City,1,bachelors,startup,5,254687
+I5BGO9,operations analyst (entry level) (SQL),2016,New York City,0,bachelors,big_tech,1,149813
+HY9CVL,junior cloud infrastructure engineer (security),2021,New York City,0,bachelors,startup,2,242711
+RMW6LZ,staff site reliability engineer (platform),2023,Seattle,0,none,small_business,10,173541
+UVYF1M,lead software engineer (cloud),2024,Denver,0,bachelors,small_business,8,158549
+FYWHT0,systems administrator (SaaS),2025,New York City,0,bachelors,startup,3,138251
+4GETL0,senior analytics engineer,2024,Austin TX,1,bachelors,big_tech,9,263805
+RRM23M,backend engineer (new grad) (payments),2020,Raleigh NC,0,bachelors,startup,1,116253
+CSHOSO,"senior research scientist, computer vision (generative models)",2024,Austin TX,0,phd,startup,5,295881
+YA0SQZ,analytics engineer,2018,San Francisco,0,none,startup,4,143958
+NMZR1U,BI analyst,2020,Boulder,0,bachelors,big_tech,2,133617
+S0LGA7,site reliability engineer (cloud),2022,Miami,0,masters,corp,4,170724
+KQ8DKP,help desk specialist,2022,San Francisco,1,none,big_tech,3,161638
+FMRGFC,senior desktop support technician (Windows/Mac),2022,New York City,0,bachelors,corp,7,126296
+63G2S2,full stack engineer,2021,Boston,0,bachelors,big_tech,4,188160
+TNKI9T,junior desktop support technician (SaaS),2023,Seattle,0,bachelors,corp,0,99403
+P2BX4P,junior cloud infrastructure engineer (platform),2020,San Francisco,0,bachelors,big_tech,0,207783
+BOMORW,frontend engineer intern (platform),2023,San Francisco,0,bachelors,big_tech,0,211901
+DXEFLC,cloud infrastructure engineer (payments),2019,New York City,0,bachelors,startup,5,233636
+IT4H2G,cloud infrastructure engineer (distributed systems),2017,Seattle,0,none,small_business,4,123793
+RPJJPO,staff business analyst (SQL),2022,Boulder,0,bachelors,big_tech,13,232144
+BLLS7H,desktop support technician (networking),2018,Boston,0,none,startup,6,101491
+N4QVK1,NLP engineer (new grad) (LLMs),2020,Raleigh NC,0,masters,small_business,0,152734
+D8SOSB,business analyst (entry level) (dashboarding),2022,Boston,0,masters,big_tech,0,181306
+CLBJC1,staff product manager (B2B),2022,Denver,0,masters,small_business,11,200201
+F6LADH,cloud infrastructure engineer (cloud),2021,New York City,0,bachelors,corp,6,210128
+CBD9R4,senior BI analyst (dashboarding),2025,Austin TX,0,masters,startup,10,197620
+BDUGTS,office administrator (new grad) (operations),2018,New York City,0,none,big_tech,0,81287
+WEEDEJ,backend engineer (entry level) (platform),2021,Boston,0,masters,big_tech,0,207138
+TJ8NH9,staff help desk specialist,2022,Seattle,1,bachelors,small_business,13,122063
+XWBYLE,lead office coordinator,2022,Denver,0,bachelors,small_business,9,61566
+2XTL3K,mobile app developer,2023,Boston,0,bachelors,startup,5,219138
+D46FMJ,junior administrative assistant (finance),2020,Seattle,0,none,small_business,0,49470
+WYYI0R,full stack engineer (entry level) (platform),2020,New York City,0,bachelors,big_tech,1,213563
+JBFU6T,junior network technician (SaaS),2023,Seattle,0,bachelors,big_tech,1,108633
+40F5N2,HR coordinator (operations),2023,Kansas City MO,0,bachelors,corp,5,56263
+GB5PF1,lead data analyst (dashboarding),2022,New York City,0,bachelors,corp,11,158901
+QO01W8,mobile app developer (cloud),2022,Boston,0,bachelors,big_tech,2,176361
+FW25B6,backend engineer (new grad) (cloud),2020,San Antonio,1,bachelors,small_business,1,96548
+L6TP0K,product operations specialist (growth),2023,Raleigh NC,0,masters,corp,3,194458
+8HFVSO,mobile app developer (entry level) (security),2021,Austin TX,0,none,corp,1,131646
+US1QPK,senior HR coordinator (finance),2022,San Antonio,0,none,small_business,10,53809
+4XQAG5,backend engineer intern (security),2023,San Francisco,0,bachelors,corp,0,187944
+LG0479,lead program manager (growth),2023,Seattle,1,bachelors,small_business,8,268257
+P8I2PK,full stack engineer (cloud),2019,Orlando,0,bachelors,big_tech,6,144858
+TC9LDS,desktop support technician,2024,Austin TX,0,none,corp,2,84770
+WH8C92,business analyst (experimentation),2017,St. Louis,0,masters,startup,5,124461
+4OII31,staff mobile app developer (platform),2023,Boston,0,bachelors,corp,10,198699
+4U9VNU,applied scientist (entry level) (LLMs),2021,Boston,0,bachelors,corp,1,189601
+ZQJJ14,IT support technician intern (Windows/Mac),2021,New York City,0,none,big_tech,0,91535
+5VUIGK,senior mobile app developer (platform),2017,Miami,0,bachelors,startup,7,138540
+GYMTEG,junior software engineer (cloud),2021,Boston,0,bachelors,corp,2,137861
+7BS9TB,ML platform engineer (new grad) (MLOps),2023,San Antonio,0,bachelors,startup,0,145059
+27V3ZL,senior backend engineer,2022,San Francisco,0,bachelors,corp,10,239029
+47C4UI,data analyst (experimentation),2022,New York City,0,bachelors,startup,5,187841
+OH1PN6,junior software engineer,2021,San Francisco,0,bachelors,small_business,1,138274
+PR376B,junior software engineer (platform),2024,Boston,0,none,startup,0,165181
+ICY2NR,NLP engineer (new grad) (NLP),2022,Chicago,0,bachelors,startup,1,205627
+Q5SPCV,administrative assistant (entry level),2020,Boston,1,none,big_tech,0,80768
+W13D4J,technical project manager (platform),2023,San Francisco,0,bachelors,big_tech,6,314192
+80J3HP,senior BI analyst (experimentation),2022,New York City,0,bachelors,corp,5,187607
+ORQ3CX,cloud infrastructure engineer,2023,Boulder,0,none,corp,3,160400
+ZZN6F7,applied scientist (new grad),2023,San Francisco,1,masters,corp,1,295313
+E8VYB2,senior software engineer (platform),2025,New York City,0,bachelors,startup,10,309723
+FM00XU,lead software engineer (distributed systems),2022,Denver,0,bachelors,small_business,10,165542
+3IBABY,senior software engineer,2022,Chicago,0,bachelors,startup,5,212952
+R3SKFC,frontend engineer (payments),2023,New York City,0,bachelors,small_business,5,179443
+CGOL7P,senior technical product manager (B2B),2022,Buffalo,0,bachelors,startup,10,163189
+RFCV1P,cloud infrastructure engineer (entry level) (cloud),2022,New York City,1,bachelors,big_tech,0,242393
+KQ1N3Z,senior BI analyst (dashboarding),2023,Austin TX,0,masters,small_business,9,127755
+5PNZWK,senior operations analyst (dashboarding),2023,Denver,0,bachelors,corp,9,136669
+XI6L8B,staff backend engineer (security),2021,Austin TX,0,bachelors,corp,13,251992
+DBBVME,junior full stack engineer,2022,Kansas City MO,0,none,small_business,1,91435
+ULX5S3,principal operations analyst (SQL),2019,Seattle,0,bachelors,small_business,15,168276
+7RVHHH,product operations specialist,2022,New York City,1,masters,small_business,5,246843
+B6IRDD,senior IT support technician,2016,Boston,0,bachelors,corp,9,113623
+38ACP3,staff data analyst,2023,Austin TX,0,masters,startup,9,185379
+1EBK7A,junior AI product engineer (LLMs),2024,Dallas,0,bachelors,corp,0,167745
+BO4CZV,junior backend engineer (payments),2017,San Francisco,0,masters,corp,0,166132
+YJMS9G,full stack engineer intern,2023,San Francisco,0,bachelors,corp,0,178663
+KAY9D5,backend engineer (security),2018,Orlando,0,bachelors,startup,6,112416
+HHEVNJ,software engineer (entry level) (cloud),2023,Providence RI,0,bachelors,corp,1,99302
+Z32QO8,senior program manager (platform),2025,Denver,0,bachelors,big_tech,6,222195
+MB5W74,executive assistant intern,2025,Dallas,1,none,startup,0,69660
+WOI35V,technical project manager (growth),2020,San Antonio,0,bachelors,startup,2,148888
+MC2297,software engineer (payments),2021,San Francisco,0,bachelors,big_tech,4,309290
+G5EZPL,senior frontend engineer (cloud),2021,Austin TX,0,bachelors,startup,5,195932
+N1ENRX,data analyst (dashboarding),2023,St. Louis,0,bachelors,big_tech,6,150470
+64S7EY,backend engineer intern (cloud),2019,Kansas City MO,0,none,startup,0,107066
+2OCP0S,mobile app developer (security),2018,Orlando,0,bachelors,corp,2,101494
+YIJ07Z,NLP engineer (entry level) (LLMs),2023,New York City,0,bachelors,startup,0,271293
+5GQTPR,computer vision engineer (entry level) (LLMs),2025,Austin TX,0,phd,corp,0,211676
+QI4FM4,frontend engineer (payments),2022,Seattle,0,bachelors,corp,5,187730
+1LBIYA,junior analytics engineer,2019,San Francisco,1,bachelors,small_business,0,117742
+NKU842,junior technical product manager (AI),2022,San Francisco,1,bachelors,startup,1,264895
+B8YYSR,technical product manager (platform),2022,Chicago,0,bachelors,corp,6,181070
+SRVMJ4,analytics engineer (experimentation),2021,San Francisco,0,masters,corp,4,149901
+XXV9XL,lead office coordinator (operations),2019,Boston,0,bachelors,corp,9,74958
+1AAXTE,"research scientist, NLP (applied ML)",2021,Miami,0,phd,big_tech,2,259941
+U1C2DB,technical project manager (entry level) (platform),2019,Austin TX,0,none,startup,0,169924
+YEQ9QW,senior systems administrator (Windows/Mac),2020,Kansas City MO,1,none,corp,5,76958
+HU9P37,cloud infrastructure engineer (security),2022,Austin TX,0,bachelors,big_tech,5,191800
+I7OQUB,network technician,2019,St. Louis,0,none,small_business,5,56852
+I41L7K,staff network technician (Windows/Mac),2021,Seattle,1,bachelors,corp,9,172748
+DQ94C4,HR coordinator (new grad) (operations),2022,Orlando,0,none,corp,1,44544
+O9QU2J,junior help desk specialist (Windows/Mac),2023,Seattle,0,none,startup,2,118806
+1U8S7X,help desk specialist (networking),2024,Austin TX,0,bachelors,startup,4,118035
+6U0QXP,"research scientist, computer vision (applied ML)",2021,Austin TX,0,masters,big_tech,2,290899
+QGDFFJ,desktop support technician (SaaS),2023,San Francisco,0,none,big_tech,3,156463
+808PE3,backend engineer (entry level) (payments),2022,St. Louis,0,bachelors,small_business,1,120607
+TK3AOH,software engineer (distributed systems),2025,San Francisco,0,bachelors,big_tech,3,333424
+KP1U8A,frontend engineer (payments),2021,Raleigh NC,1,none,small_business,3,91696
+3Q9RC7,lead help desk specialist,2022,San Francisco,0,none,small_business,12,101812
+FQ5LJ3,cloud infrastructure engineer (cloud),2021,Boulder,1,bachelors,corp,2,183692
+390EOF,BI analyst,2022,Orlando,0,masters,small_business,5,89741
+1BSAJJ,senior desktop support technician,2023,St. Louis,0,bachelors,small_business,6,67610
+1UPFT3,cloud infrastructure engineer (security),2023,Philadelphia,0,bachelors,startup,6,247614
+ZWT5JE,systems administrator,2016,Austin TX,0,bachelors,small_business,5,72988
+M4LXPB,senior cloud infrastructure engineer,2017,San Francisco,0,bachelors,startup,9,241623
+DY53AM,data analyst (dashboarding),2022,Miami,0,bachelors,big_tech,4,149904
+1HQ5FE,analytics engineer (entry level) (SQL),2025,Boston,0,bachelors,corp,1,108995
+BJLLBF,lead software engineer (payments),2023,San Francisco,1,bachelors,corp,10,304833
+GOGQUM,cloud infrastructure engineer (new grad) (platform),2020,San Francisco,0,none,corp,1,188192
+RWLJ2R,lead backend engineer (security),2021,Dallas,0,bachelors,corp,8,204190
+C33DRT,backend engineer (platform),2024,Austin TX,0,bachelors,big_tech,3,218253
+EC17ON,help desk specialist (networking),2024,San Francisco,0,bachelors,small_business,5,106637
+P7FVSK,senior analytics engineer (dashboarding),2021,New York City,1,bachelors,corp,7,183750
+CFM48R,junior cloud infrastructure engineer (platform),2021,Seattle,0,bachelors,big_tech,1,235386
+1KRSFE,lead mobile app developer (platform),2018,San Francisco,0,masters,small_business,10,193491
+CY0PNF,junior HR coordinator (finance),2016,Boulder,0,bachelors,small_business,2,40096
+PS6LAV,computer vision engineer (LLMs),2023,Kansas City MO,0,phd,startup,6,293655
+EGX8X9,senior business analyst (SQL),2021,Raleigh NC,0,bachelors,big_tech,6,149049
+B8KRAU,business analyst (dashboarding),2022,New York City,0,bachelors,big_tech,5,198547
+9Y9BSW,senior product operations specialist (platform),2023,Denver,1,bachelors,corp,8,209535
+2COLUL,software engineer (security),2020,San Francisco,0,bachelors,big_tech,5,260809
+IM723U,lead software engineer,2021,Denver,0,bachelors,corp,10,207843
+A2WJU1,backend engineer (cloud),2024,Seattle,0,none,startup,6,213443
+0EOJLV,help desk specialist (networking),2023,New York City,0,none,small_business,3,96910
+LAM8YF,senior frontend engineer (cloud),2020,Kansas City MO,0,bachelors,small_business,8,144076
+LMX89U,staff technical project manager (AI),2022,San Francisco,0,bachelors,big_tech,12,380509
+JCUT01,software engineer (new grad) (security),2021,Denver,0,bachelors,startup,1,160189
+11VVQQ,lead product operations specialist (growth),2021,Seattle,0,none,big_tech,8,291612
+FVLP69,software engineer (cloud),2022,Seattle,0,bachelors,startup,3,218847
+M6JNVA,machine learning engineer (computer vision),2025,Raleigh NC,1,bachelors,big_tech,6,309840
+OHXG6E,principal cloud infrastructure engineer (platform),2022,Dallas,0,bachelors,startup,14,192538
+WL3038,IT support technician (Windows/Mac),2024,Seattle,0,none,startup,3,103738
+UW2JJV,site reliability engineer (platform),2018,San Francisco,0,bachelors,corp,3,180007
+I5QYHS,technical product manager intern (growth),2025,Raleigh NC,1,bachelors,startup,0,166662
+Q4XD14,machine learning engineer (LLMs),2025,Austin TX,0,masters,corp,2,252041
+7B1WAT,staff software engineer (distributed systems),2023,San Francisco,0,masters,startup,11,310396
+RGVLB0,cloud infrastructure engineer (payments),2019,San Francisco,0,bachelors,big_tech,6,208961
+K9V0SO,senior office coordinator (operations),2024,Boston,0,none,big_tech,9,111528
+FWETJO,help desk specialist,2021,Buffalo,0,none,small_business,5,49306
+F7VUW5,lead backend engineer (payments),2019,Boston,0,bachelors,startup,10,180706
+OAHSZF,full stack engineer (entry level) (security),2023,Raleigh NC,0,bachelors,small_business,1,104440
+B5I6C8,site reliability engineer (platform),2022,San Francisco,0,masters,small_business,5,178954
+58WETH,network technician,2020,San Francisco,0,bachelors,small_business,3,84758
+5CY02T,senior network technician (networking),2022,San Francisco,0,none,startup,9,138531
+FPTYA9,senior program manager (AI),2024,Seattle,0,bachelors,startup,10,290600
+Y7LC8V,junior computer vision engineer (NLP),2024,Boston,0,masters,startup,1,230826
+QVUAAH,operations analyst,2024,New York City,1,bachelors,corp,3,165939
+UL5T08,site reliability engineer (platform),2022,Seattle,0,bachelors,corp,4,209256
+DLQH47,lead software engineer (security),2022,Orlando,0,bachelors,small_business,8,154647
+0EQNLL,senior network technician (networking),2018,Boulder,0,bachelors,big_tech,10,131835
+FAJ6IN,junior backend engineer (distributed systems),2022,New York City,0,bachelors,corp,0,196050
+9JHF3B,backend engineer (entry level),2019,Buffalo,0,bachelors,small_business,1,87343
+T7CL1L,site reliability engineer (payments),2022,Seattle,0,bachelors,startup,4,216643
+D4QR8H,junior help desk specialist,2022,San Francisco,0,bachelors,startup,1,111012
+OJUBF0,senior technical product manager (platform),2021,San Antonio,0,masters,small_business,8,147912
+UIFC0Y,product operations specialist,2021,Boston,0,bachelors,big_tech,3,222878
+HL8ZN8,junior software engineer,2023,Boston,0,bachelors,startup,2,173681
+BQVN2L,senior executive assistant (finance),2024,San Francisco,0,none,startup,8,111211
+VTXPVB,full stack engineer (payments),2025,Austin TX,0,bachelors,small_business,2,152445
+B12ACV,junior full stack engineer (cloud),2021,Boulder,0,masters,corp,2,196794
+JE94FM,BI analyst,2023,Boston,0,none,startup,5,156397
+ZYFIZS,mobile app developer (entry level) (cloud),2021,Austin TX,0,bachelors,small_business,0,134583
+GWEEVJ,network technician (networking),2020,New York City,0,bachelors,big_tech,6,155675
+QQ3GZ3,applied scientist (new grad) (recommendation systems),2024,Seattle,1,bachelors,big_tech,0,389795
+A6DD47,full stack engineer,2022,Denver,0,bachelors,corp,6,189680
+UNYLNK,administrative assistant intern (finance),2020,New York City,0,none,startup,0,69532
+KIM9JW,product manager (platform),2021,San Antonio,0,bachelors,corp,2,153125
+0ARXQO,program manager (entry level) (B2B),2024,Denver,0,bachelors,corp,0,141416
+ZSF7R6,machine learning engineer (NLP),2022,Austin TX,0,masters,corp,2,184172
+F4GLB0,junior software engineer (platform),2025,Boston,1,bachelors,big_tech,0,206513
+AP6YF3,mobile app developer,2018,New York City,0,bachelors,big_tech,4,218464
+HI3V9B,analytics engineer,2025,New York City,0,bachelors,startup,2,182881
+HJIGK1,junior mobile app developer (security),2021,Denver,0,masters,startup,1,150180
+LDYPSK,backend engineer (platform),2017,Seattle,0,bachelors,big_tech,4,226406
+1CR192,staff frontend engineer (platform),2023,Buffalo,0,bachelors,small_business,13,163331
+M6JTXM,junior IT support technician,2020,St. Louis,1,bachelors,big_tech,2,95912
+IFCB2O,junior site reliability engineer,2018,Boston,0,bachelors,startup,2,166062
+BDARYJ,site reliability engineer (cloud),2022,Denver,1,masters,corp,4,190970
+4JJ59C,site reliability engineer (entry level) (distributed systems),2025,Raleigh NC,0,bachelors,startup,1,132424
+JQS8JP,help desk specialist (Windows/Mac),2021,New York City,0,none,startup,6,108664
+WIZH2Z,software engineer (distributed systems),2021,Austin TX,0,bachelors,corp,2,134878
+YAUF3N,frontend engineer (entry level) (platform),2022,Seattle,0,bachelors,corp,1,157550
+NU593S,network technician intern,2024,Denver,0,none,big_tech,0,96866
+XRV7BU,junior administrative assistant (HR),2025,Kansas City MO,0,none,corp,2,49929
+ZEWL7E,junior software engineer (security),2022,Miami,0,bachelors,startup,2,156150
+7BGM3O,frontend engineer (new grad) (payments),2023,Austin TX,0,bachelors,corp,1,139969
+8FC25J,cloud infrastructure engineer intern,2022,San Francisco,0,masters,startup,0,178354
+PP0DE5,operations analyst (experimentation),2019,New York City,0,bachelors,corp,2,126669
+3GBVLK,junior operations analyst,2017,New York City,0,bachelors,corp,0,121992
+OWBKIE,cloud infrastructure engineer (distributed systems),2022,Chicago,0,masters,startup,2,193187
+QW8X57,junior NLP engineer (computer vision),2020,Boston,0,masters,corp,2,177812
+NB8JVT,office administrator (new grad) (finance),2022,San Francisco,0,bachelors,corp,1,71708
+DT2I10,software engineer (payments),2019,New York City,0,masters,small_business,3,164857
+SP0J2I,senior technical product manager (growth),2021,New York City,0,masters,big_tech,9,311859
+SQ31CQ,frontend engineer,2021,New York City,0,bachelors,startup,2,214483
+Z7IJ9P,senior site reliability engineer (platform),2022,San Francisco,0,masters,big_tech,7,310815
+WU240F,program manager (entry level) (platform),2022,Orlando,0,masters,small_business,0,111588
+WYM40X,lead IT support technician (networking),2019,San Francisco,0,none,small_business,12,123865
+A971UY,junior cloud infrastructure engineer (security),2024,San Francisco,0,bachelors,corp,2,213989
+9D977K,senior business analyst (experimentation),2021,New York City,1,none,startup,8,181581
+G2FN7M,cloud infrastructure engineer (cloud),2019,Denver,0,bachelors,corp,3,108862
+4RPWK7,product operations specialist (entry level) (B2B),2022,Philadelphia,0,bachelors,small_business,1,121001
+CK9Q40,cloud infrastructure engineer (distributed systems),2022,San Francisco,0,bachelors,corp,2,205871
+GGD3YZ,program manager,2024,New York City,0,bachelors,big_tech,3,269088
+WWP0CJ,junior analytics engineer (dashboarding),2023,New York City,0,bachelors,startup,1,154319
+K1NK98,applied scientist (MLOps),2024,Seattle,0,masters,big_tech,3,281719
+9ERSXH,senior mobile app developer (security),2024,Seattle,0,bachelors,small_business,6,168547
+3SD6FG,cloud infrastructure engineer (platform),2020,Denver,0,bachelors,startup,5,149673
+RG2VM6,full stack engineer (security),2020,Philadelphia,0,masters,startup,4,234956
+4EC6R2,principal IT support technician (SaaS),2024,New York City,0,none,small_business,14,140398
+V28WKX,junior applied scientist (MLOps),2023,Denver,0,masters,corp,2,195129
+UXZ125,systems administrator (Windows/Mac),2019,Denver,0,none,corp,6,63178
+0VEF6V,site reliability engineer (entry level) (platform),2018,New York City,0,masters,corp,1,151643
+IUF7OY,senior desktop support technician (networking),2021,Dallas,0,none,big_tech,7,113624
+UQ35CL,junior cloud infrastructure engineer,2024,New York City,0,bachelors,big_tech,2,220410
+M8OWYU,senior full stack engineer,2023,Orlando,0,masters,big_tech,10,243669
+6YWKMA,analytics engineer (SQL),2017,Chicago,0,masters,small_business,4,85620
+DAJ78N,junior backend engineer,2025,Hartford CT,0,bachelors,big_tech,2,181733
+G7ZA4J,senior executive assistant,2020,New York City,0,bachelors,corp,9,100944
+OGCJRQ,junior software engineer (payments),2017,Boulder,0,bachelors,big_tech,1,126623
+OG11EN,junior software engineer,2023,Denver,0,masters,corp,1,154868
+6KDHJQ,junior analytics engineer,2021,San Francisco,1,none,corp,2,127686
+GIEO8M,junior office administrator (HR),2022,San Francisco,0,bachelors,corp,0,81127
+3LQU43,senior cloud infrastructure engineer (payments),2022,Chicago,0,bachelors,corp,7,178493
+2ZJ5Q4,frontend engineer (payments),2021,Boston,0,bachelors,big_tech,6,264170
+QYD73M,product manager,2022,New York City,0,bachelors,startup,4,223269
+7DHVQ9,principal site reliability engineer (security),2021,St. Louis,0,none,corp,15,181201
+1SET15,principal product manager (B2B),2020,New York City,0,bachelors,big_tech,11,329462
+SEHQAN,junior frontend engineer (security),2017,Orlando,0,masters,startup,1,122794
+OTH44T,operations analyst (entry level) (dashboarding),2019,San Francisco,0,none,startup,1,139431
+THTYFD,product manager (AI),2022,San Francisco,0,bachelors,big_tech,6,265792
+SVWJQC,cloud infrastructure engineer (entry level) (security),2021,Boston,0,bachelors,corp,0,150451
+CIO3UY,site reliability engineer (entry level) (cloud),2017,Denver,0,bachelors,big_tech,0,112680
+2REBQ6,cloud infrastructure engineer intern,2023,Denver,0,bachelors,corp,0,126107
+EJS9CR,senior site reliability engineer (security),2020,Raleigh NC,0,bachelors,corp,9,168377
+KOFTLF,business analyst,2023,Seattle,0,bachelors,startup,3,156618
+O30K6N,senior full stack engineer (distributed systems),2022,Miami,0,masters,corp,5,153158
+MUNNNQ,lead technical project manager (platform),2024,Boston,0,bachelors,big_tech,8,348945
+7CTCYS,junior systems administrator (networking),2019,Seattle,0,bachelors,corp,2,91910
+6IIXAF,senior frontend engineer (payments),2025,Denver,0,bachelors,small_business,9,130374
+LFN62Z,systems administrator,2020,Seattle,0,bachelors,big_tech,3,117068
+TSFJLE,staff cloud infrastructure engineer,2019,San Francisco,0,bachelors,corp,12,255287
+P5N0KG,business analyst intern (SQL),2023,San Francisco,0,masters,big_tech,0,159043
+T0VXGR,lead cloud infrastructure engineer (security),2024,New York City,0,none,corp,10,209089
+B0PY6D,senior site reliability engineer,2022,New York City,0,bachelors,small_business,7,209594
+VPVFIY,site reliability engineer (cloud),2023,New York City,0,bachelors,corp,6,174145
+HQX9UV,junior ML platform engineer (computer vision),2022,Boston,0,masters,startup,1,235832
+847HR9,software engineer (security),2022,Austin TX,0,masters,corp,6,173041
+JWP3HX,senior full stack engineer (platform),2018,San Francisco,1,bachelors,startup,5,209905
+7UCTD9,operations analyst (entry level) (experimentation),2025,Buffalo,0,bachelors,corp,0,84132
+1CDY20,frontend engineer (platform),2022,New York City,0,bachelors,corp,4,163411
+MUVRFR,senior IT support technician (Windows/Mac),2019,San Francisco,0,bachelors,corp,9,100711
+I7NSYE,program manager (growth),2019,New York City,0,bachelors,corp,4,185989
+SKAEK4,staff HR coordinator (operations),2019,San Francisco,0,none,startup,10,125683
+4VNPX3,software engineer (payments),2019,Seattle,0,none,startup,2,168892
+5NA4AX,cloud infrastructure engineer intern (distributed systems),2023,Boston,0,bachelors,big_tech,0,245650
+UT0X90,junior administrative assistant (HR),2019,Boston,1,bachelors,startup,2,95088
+0DNU4V,site reliability engineer (distributed systems),2023,San Francisco,0,bachelors,small_business,6,175926
+ZC2PCQ,data analyst (SQL),2022,New York City,0,bachelors,startup,3,132440
+ZLOESX,backend engineer (platform),2025,New York City,0,bachelors,small_business,4,191256
+L5393N,research scientist intern (applied ML),2024,Philadelphia,1,phd,big_tech,0,264584
+KJ2DEQ,senior ML platform engineer,2023,Seattle,0,masters,startup,10,313052
+OEDRFK,computer vision engineer (new grad),2024,Boston,0,masters,big_tech,0,292154
+PH0BL5,lead analytics engineer (experimentation),2020,New York City,0,bachelors,big_tech,8,177421
+MQX95F,cloud infrastructure engineer (entry level) (platform),2016,New York City,0,bachelors,corp,0,135487
+F0KSZQ,product operations specialist,2021,New York City,0,none,corp,3,167601
+RA7EIW,lead IT support technician (Windows/Mac),2017,Miami,0,bachelors,startup,9,84772
+R424ON,BI analyst (entry level) (dashboarding),2019,San Francisco,0,bachelors,big_tech,0,160575
+LQIFZI,staff product operations specialist (growth),2020,San Francisco,0,masters,small_business,9,255648
+HKO4AN,senior cloud infrastructure engineer (payments),2020,Austin TX,0,bachelors,corp,8,183157
+BVMRFD,frontend engineer intern,2018,Denver,0,masters,startup,0,162615
+VLDY9S,mobile app developer (payments),2024,San Francisco,0,bachelors,big_tech,6,320117
+984KZ9,backend engineer (cloud),2021,New York City,0,bachelors,big_tech,4,252676
+8T1Y0B,systems administrator (networking),2022,Denver,0,none,big_tech,3,90924
+Y5H4H6,network technician (entry level),2023,Raleigh NC,0,bachelors,corp,0,82220
+XOILUL,desktop support technician (new grad),2024,Chicago,0,bachelors,small_business,1,59482
+M2VTH3,lead site reliability engineer (cloud),2025,Boston,0,masters,corp,11,249436
+4URG2C,BI analyst (SQL),2019,Boulder,1,bachelors,big_tech,6,170800
+V2YQ7K,NLP engineer (entry level) (MLOps),2024,Denver,0,masters,startup,0,175087
+VW5R34,senior systems administrator (SaaS),2023,Austin TX,0,bachelors,small_business,10,95343
+Z5TZQ4,lead frontend engineer (platform),2025,Denver,0,bachelors,corp,12,205655
+8SGMJ6,desktop support technician (new grad) (Windows/Mac),2024,New York City,0,none,corp,1,101606
+Z6PMKQ,junior desktop support technician (networking),2022,New York City,0,bachelors,big_tech,1,145547
+XWKZFU,software engineer (payments),2020,Seattle,0,bachelors,startup,3,170362
+OQN76J,desktop support technician (SaaS),2021,Raleigh NC,0,bachelors,startup,5,104916
+9LREH1,senior executive assistant (finance),2023,Austin TX,0,none,corp,10,70307
+B3JLN7,frontend engineer (new grad) (platform),2023,New York City,0,bachelors,corp,0,173831
+N167UW,lead backend engineer (payments),2019,New York City,1,none,startup,11,229451
+SOXQAY,cloud infrastructure engineer (new grad) (security),2024,San Francisco,1,bachelors,corp,1,228785
+RSFRKZ,product operations specialist (growth),2019,New York City,0,bachelors,corp,5,207595
+FVY00J,staff software engineer (payments),2021,New York City,0,bachelors,startup,8,218589
+YWIMSR,junior software engineer (security),2023,San Francisco,0,bachelors,small_business,1,171286
+SNZ0PL,junior technical product manager (growth),2023,Orlando,0,bachelors,corp,2,126540
+NK95ZK,NLP engineer (LLMs),2022,Austin TX,0,masters,big_tech,4,240047
+93IRZY,senior cloud infrastructure engineer (payments),2022,New York City,0,bachelors,big_tech,10,334976
+ZJ50T0,lead operations analyst (experimentation),2021,Boulder,1,bachelors,big_tech,10,197903
+V423QX,lead cloud infrastructure engineer (distributed systems),2018,San Francisco,0,bachelors,startup,10,247864
+FNL9SM,junior operations analyst (SQL),2022,Denver,0,none,small_business,2,89165
+9RQL7B,product operations specialist (platform),2024,Denver,0,none,corp,2,159856
+ST7NPW,full stack engineer,2021,San Francisco,0,masters,small_business,3,176864
+Z1S7SZ,staff product operations specialist (B2B),2023,Boulder,0,bachelors,startup,9,279948
+S2L0BW,machine learning engineer (new grad),2024,Kansas City MO,0,bachelors,corp,0,132981
+JLF5Q8,frontend engineer (security),2020,Austin TX,0,masters,big_tech,4,181771
+PUEUMZ,software engineer (distributed systems),2022,Chicago,0,bachelors,big_tech,6,224967
+E4UER8,operations analyst (entry level),2021,San Francisco,0,bachelors,big_tech,0,174630
+FD9EL6,product operations specialist (B2B),2021,Philadelphia,1,bachelors,startup,6,227297
+TPU2YC,full stack engineer (new grad) (security),2021,New York City,1,bachelors,corp,0,204423
+63BUT0,data analyst (entry level) (SQL),2023,Boston,1,bachelors,big_tech,0,135786
+VDG8MT,technical project manager (entry level),2024,Dallas,0,bachelors,small_business,1,138458
+BQ9TSD,junior data analyst (dashboarding),2021,Boston,1,bachelors,corp,2,142829
+08S2GX,desktop support technician (networking),2022,San Francisco,0,bachelors,startup,5,140579
+JSX33Q,full stack engineer,2023,San Francisco,0,bachelors,small_business,5,213786
+4ROOMZ,junior machine learning engineer,2025,San Francisco,0,masters,big_tech,2,367179
+10PRM3,frontend engineer,2019,Austin TX,0,bachelors,startup,5,175870
+I97MGQ,junior machine learning engineer (NLP),2022,New York City,0,phd,big_tech,0,289647
+5MPG7U,product operations specialist (platform),2017,Seattle,0,bachelors,small_business,4,169349
+H2KRK5,network technician,2022,San Francisco,0,none,startup,6,156651
+AQW1FQ,senior cloud infrastructure engineer (distributed systems),2023,Denver,0,bachelors,startup,6,186776
+PF7JW4,operations analyst (SQL),2020,San Francisco,0,bachelors,corp,5,128695
+XMH9XV,backend engineer (entry level),2023,Seattle,0,masters,corp,1,171743
+ZLFHZ6,business analyst (dashboarding),2020,Denver,0,masters,startup,3,137972
+BJ7GRN,research scientist (new grad) (generative models),2025,Raleigh NC,0,phd,big_tech,0,332316
+745M3R,lead cloud infrastructure engineer (payments),2020,Raleigh NC,0,bachelors,corp,10,178466
+YFFYU5,network technician (networking),2022,New York City,0,none,corp,3,91877
+YY2TTI,principal research scientist (NLP),2023,New York City,0,phd,big_tech,2,392320
+GSU0RK,lead mobile app developer,2016,New York City,0,bachelors,big_tech,11,372535
+UOSCMM,cloud infrastructure engineer (distributed systems),2022,San Antonio,0,bachelors,big_tech,2,135873
+HP6QYO,BI analyst,2025,New York City,0,none,startup,4,149380
+VLUCDD,junior site reliability engineer,2023,San Francisco,0,bachelors,big_tech,1,201391
+5UGY72,staff full stack engineer (payments),2022,Raleigh NC,0,bachelors,big_tech,13,234713
+3QB20L,lead frontend engineer (platform),2021,San Francisco,0,bachelors,corp,10,231482
+OQCJ94,BI analyst,2018,New York City,0,bachelors,big_tech,3,181781
+XDDDA8,recruiting coordinator,2024,Miami,0,none,corp,6,87650
+JQ42S7,mobile app developer (payments),2020,San Francisco,0,bachelors,corp,6,228572
+D2OCPQ,software engineer (security),2020,Boulder,0,masters,small_business,6,127356
+F8LMHH,"research scientist, computer vision",2022,San Francisco,1,phd,big_tech,4,420000
+MGKML1,junior backend engineer (security),2025,Raleigh NC,0,masters,corp,0,133467
+FM5XXD,product operations specialist (AI),2024,New York City,0,bachelors,corp,5,284052
+QREWOR,computer vision engineer (LLMs),2021,San Francisco,0,masters,big_tech,6,410940
+69562H,senior frontend engineer (payments),2024,New York City,0,bachelors,small_business,10,250698
+2YRCS1,junior business analyst (SQL),2023,San Francisco,0,bachelors,corp,2,161571
+EA2PAD,junior program manager,2019,Buffalo,0,masters,startup,1,143030
+700SLK,senior help desk specialist,2024,Austin TX,0,bachelors,corp,10,116055
+IUFRWY,data analyst (dashboarding),2021,Denver,0,bachelors,small_business,3,99094
+U42X04,software engineer (security),2019,San Francisco,0,bachelors,startup,4,184786
+WJLW6J,lead full stack engineer (payments),2022,Denver,0,bachelors,corp,10,191415
+6BE3D6,operations analyst (dashboarding),2020,Philadelphia,0,none,corp,5,103028
+MKR8GL,senior NLP engineer (computer vision),2024,Buffalo,0,phd,startup,8,257983
+DC79RA,office administrator intern (finance),2020,Denver,0,none,corp,0,49639
+7RAAM9,junior backend engineer,2023,Austin TX,0,bachelors,corp,1,148724
+NEVJO5,ML platform engineer (LLMs),2023,Dallas,0,masters,big_tech,5,246955
+JRXK88,junior product operations specialist (growth),2024,Denver,0,bachelors,corp,1,133748
+O24H48,software engineer (payments),2023,Seattle,0,bachelors,startup,3,205371
+ME95FJ,senior analytics engineer (experimentation),2016,Denver,0,bachelors,corp,5,92822
+71AN7A,data analyst (dashboarding),2025,San Francisco,0,masters,corp,3,204575
+URJH83,program manager (entry level) (AI),2023,San Francisco,0,masters,big_tech,0,293015
+IH9RTR,staff NLP engineer (LLMs),2024,Austin TX,0,bachelors,small_business,10,183292
+MCO686,network technician (new grad) (networking),2022,Raleigh NC,0,none,small_business,0,55930
+VSJOVQ,machine learning engineer,2021,Buffalo,0,bachelors,small_business,3,118743
+ANTOVB,site reliability engineer (security),2021,Buffalo,0,bachelors,corp,3,112035
+9EVYGX,help desk specialist (new grad) (SaaS),2022,Seattle,0,none,big_tech,1,114115
+2YJ1ZD,computer vision engineer (new grad) (LLMs),2023,Raleigh NC,0,masters,startup,0,204121
+Z9ANTI,principal backend engineer (cloud),2024,Buffalo,0,bachelors,startup,15,172965
+S4SSJL,mobile app developer (platform),2022,Boston,0,bachelors,corp,2,138776
+DROJNI,staff computer vision engineer (recommendation systems),2023,New York City,0,bachelors,startup,13,320299
+KJ3FGH,full stack engineer (payments),2021,Raleigh NC,0,bachelors,corp,3,119674
+R3118W,cloud infrastructure engineer (distributed systems),2019,Boston,0,bachelors,small_business,4,126263
+I31Y89,senior frontend engineer (cloud),2020,Boston,0,bachelors,corp,8,230969
+XNP2HT,principal full stack engineer,2023,New York City,0,bachelors,small_business,15,198074
+PO8SYW,junior frontend engineer (cloud),2022,San Francisco,0,none,corp,0,143753
+0N7GTY,cloud infrastructure engineer intern (cloud),2022,San Francisco,0,bachelors,small_business,0,139402
+WH5B3V,principal backend engineer (platform),2017,Kansas City MO,1,bachelors,corp,11,155749
+P5D8QV,technical product manager,2022,Seattle,0,masters,corp,4,182911
+XA3XWL,junior analytics engineer (experimentation),2020,San Francisco,0,masters,startup,1,141548
+B35SRU,junior cloud infrastructure engineer (distributed systems),2023,Denver,0,bachelors,startup,0,174109
+VVQIIE,mobile app developer (security),2020,Seattle,0,bachelors,corp,5,199432
+KGTE2G,backend engineer (payments),2023,Dallas,0,bachelors,startup,4,236645
+O7SFTS,product manager (new grad) (growth),2025,Philadelphia,0,bachelors,corp,1,150454
+O06GWY,analytics engineer (new grad) (dashboarding),2021,Denver,0,bachelors,small_business,0,79968
+MZTT46,HR coordinator (entry level) (operations),2021,New York City,0,none,small_business,0,54254
+ZXKS6B,product manager (platform),2020,Orlando,0,masters,small_business,4,130861
+X1Q0YA,lead site reliability engineer (cloud),2016,Austin TX,0,none,startup,8,183063
+PPOSA0,machine learning engineer (LLMs),2021,New York City,1,phd,startup,5,336272
+YA9QR8,analytics engineer (entry level) (dashboarding),2022,New York City,0,bachelors,startup,0,132179
+6H285O,office administrator (HR),2020,Raleigh NC,0,bachelors,corp,5,62895
+EYZ4F7,junior AI product engineer,2021,Raleigh NC,0,masters,small_business,0,131667
+J2V6NV,software engineer (new grad) (payments),2021,Raleigh NC,0,bachelors,corp,0,138609
+EVG9SO,junior frontend engineer (payments),2018,Seattle,0,masters,big_tech,2,260870
+V40TJS,junior program manager (AI),2022,Orlando,1,none,startup,2,150966
+2DTETJ,data analyst (entry level) (dashboarding),2024,San Francisco,0,none,startup,0,134730
+4DP0EV,software engineer (cloud),2020,St. Louis,0,bachelors,startup,3,123169
+Z78XIM,executive assistant (operations),2025,Austin TX,0,bachelors,big_tech,4,114412
+FFCLC9,product operations specialist (new grad) (AI),2023,Seattle,0,bachelors,corp,1,195793
+XLW0RP,network technician,2016,Miami,0,none,corp,2,58076
+O2KTQS,site reliability engineer,2020,New York City,0,bachelors,corp,3,142774
+DXWISZ,mobile app developer (new grad) (distributed systems),2024,New York City,1,masters,corp,0,235862
+RE46Y1,network technician intern,2021,Miami,0,bachelors,corp,0,71463
+VRTYHD,operations analyst (experimentation),2021,Austin TX,0,bachelors,big_tech,2,129942
+7R38Y4,junior desktop support technician (networking),2020,San Francisco,0,bachelors,small_business,1,74625
+3DUD1Y,senior site reliability engineer (cloud),2021,Orlando,0,masters,small_business,8,114425
+YNV7WU,program manager (platform),2024,Austin TX,0,none,startup,6,206409
+TRWXR4,senior BI analyst,2020,New York City,1,bachelors,big_tech,9,222886
+XJCRV8,senior program manager (growth),2022,Raleigh NC,0,none,corp,9,152934
+GBJCQC,junior site reliability engineer (payments),2023,Austin TX,0,bachelors,corp,2,123570
+9RL1YI,product manager intern (AI),2022,Dallas,0,masters,small_business,0,128700
+GL8Q5D,staff office administrator (operations),2024,Denver,0,bachelors,corp,12,80977
+MIRZD2,principal applied scientist,2024,Seattle,0,masters,big_tech,13,420000
+LUNQ55,product manager intern (AI),2023,Philadelphia,0,bachelors,big_tech,0,184890
+A0WYG4,data analyst (dashboarding),2024,New York City,0,bachelors,big_tech,4,204273
+23NHSP,lead frontend engineer,2021,San Francisco,0,bachelors,corp,8,233907
+KFQ8B5,lead analytics engineer (experimentation),2021,San Francisco,0,bachelors,small_business,10,208476
+DS7P75,program manager (B2B),2024,Philadelphia,0,bachelors,big_tech,6,246760
+P574EQ,frontend engineer (payments),2025,New York City,1,masters,big_tech,4,353662
+9N5USC,desktop support technician,2023,San Francisco,0,none,startup,5,125404
+PF0D6C,mobile app developer (platform),2020,New York City,1,bachelors,startup,3,230948
+VZMLKL,cloud infrastructure engineer (entry level) (distributed systems),2021,San Francisco,0,none,corp,0,167463
+9IMZTP,computer vision engineer (new grad) (NLP),2025,Austin TX,0,bachelors,startup,0,177051
+C16CJP,computer vision engineer (new grad) (NLP),2025,San Antonio,0,bachelors,big_tech,0,180615
+O99UGH,BI analyst,2022,Dallas,0,bachelors,corp,5,121555
+DUBJVD,software engineer,2019,San Francisco,0,bachelors,big_tech,5,302073
+4H6VNL,network technician (entry level) (Windows/Mac),2023,New York City,0,none,startup,1,95040
+ARE4PJ,technical project manager (B2B),2024,Kansas City MO,0,bachelors,corp,4,137722
+T62HWF,junior network technician (SaaS),2020,San Francisco,0,bachelors,small_business,2,68772
+FUPYJK,office coordinator (new grad) (HR),2023,Boston,0,none,corp,1,63416
+HSVC2F,junior backend engineer (distributed systems),2021,San Francisco,0,bachelors,big_tech,0,234801
+T103GV,product manager (platform),2017,Boulder,0,bachelors,startup,4,187733
+VC6H3D,machine learning engineer (LLMs),2023,Philadelphia,0,masters,startup,5,226130
+41UI7H,recruiting coordinator,2019,Boston,1,bachelors,small_business,3,68125
+H8OI59,junior data analyst,2022,New York City,0,masters,big_tech,2,192844
+D7VGAQ,"junior research scientist, NLP (computer vision)",2021,Seattle,0,phd,big_tech,0,378332
+60JSVY,ML platform engineer (LLMs),2022,New York City,0,bachelors,small_business,3,191233
+B55IR7,lead mobile app developer,2020,San Francisco,0,bachelors,small_business,10,184304
+PO0YP5,junior business analyst,2023,Seattle,0,none,startup,1,139668
+RFYL25,help desk specialist,2021,Austin TX,0,none,small_business,6,83348
+0S2T11,senior HR coordinator (operations),2021,Dallas,0,bachelors,big_tech,10,88609
+8PKAIT,software engineer (platform),2021,Orlando,0,none,big_tech,5,149951
+NLKOIU,junior IT support technician (networking),2022,Seattle,0,none,corp,0,75354
+18JAE8,senior full stack engineer (security),2021,Boulder,0,bachelors,corp,9,183134
+YTXH1N,software engineer,2023,New York City,0,bachelors,big_tech,5,268044
+NAV2UJ,senior HR coordinator (HR),2025,Boston,0,bachelors,startup,5,116099
+X10BV0,operations analyst (experimentation),2020,Buffalo,0,bachelors,small_business,3,81962
+8ZYI1H,product operations specialist (AI),2021,New York City,0,bachelors,corp,6,197197
+39LMWL,mobile app developer (security),2023,Buffalo,0,bachelors,small_business,6,100203
+P7GD26,lead technical project manager (platform),2017,Austin TX,0,bachelors,startup,9,216999
+WHAHKG,senior cloud infrastructure engineer,2017,Seattle,1,bachelors,startup,7,241071
+XW3XPE,lead frontend engineer (cloud),2024,New York City,0,bachelors,big_tech,11,337256
+MZVB6M,senior frontend engineer (platform),2020,San Francisco,0,bachelors,corp,5,178384
+0E9MAW,operations analyst,2016,Seattle,0,bachelors,big_tech,5,133618
+8L6TUK,mobile app developer (distributed systems),2018,Boston,0,bachelors,small_business,4,121286
+UMOSJN,data analyst (SQL),2021,Denver,1,bachelors,corp,5,132979
+BDHYMM,junior help desk specialist (Windows/Mac),2023,Boston,0,bachelors,startup,0,101417
+MEIVK2,product operations specialist (entry level) (platform),2019,Boston,0,bachelors,big_tech,1,192959
+F217BY,lead site reliability engineer (security),2019,Denver,0,bachelors,small_business,12,126572
+2F17GH,technical project manager (platform),2020,San Francisco,0,bachelors,corp,4,195200
+RMPH9C,help desk specialist intern (Windows/Mac),2024,Boulder,1,bachelors,big_tech,0,136937
+GTJ5H9,full stack engineer (cloud),2018,New York City,0,bachelors,startup,2,191966
+Y813I6,frontend engineer (cloud),2023,New York City,0,masters,startup,6,232232
+7Z4TYN,desktop support technician (networking),2019,Raleigh NC,0,none,corp,3,74744
+BNFCBE,junior technical product manager,2021,Denver,0,bachelors,small_business,2,129618
+OU7C9I,machine learning engineer (recommendation systems),2023,Seattle,0,bachelors,small_business,6,195853
+J5BXS9,senior cloud infrastructure engineer,2022,Boston,0,masters,corp,8,219630
+9NTGWE,principal site reliability engineer (distributed systems),2019,St. Louis,0,bachelors,corp,11,120975
+SFC0QO,frontend engineer (entry level) (payments),2023,Buffalo,0,masters,startup,1,148862
+HRJB6A,junior applied scientist (LLMs),2023,Kansas City MO,0,masters,startup,2,186548
+V50IAV,junior product manager (platform),2023,San Antonio,0,masters,corp,2,164149
+S01X73,help desk specialist (SaaS),2022,Denver,0,bachelors,startup,3,92550
+FJNWJH,program manager,2022,San Francisco,0,bachelors,big_tech,4,280296
+VB70Y0,administrative assistant (operations),2025,Raleigh NC,1,bachelors,startup,2,79913
+0OJ5GN,operations analyst,2017,New York City,0,bachelors,corp,2,114126
+ZAUWJW,junior NLP engineer (LLMs),2024,San Francisco,0,phd,startup,0,309170
+G2VNHF,IT support technician,2023,San Francisco,0,none,small_business,2,83747
+UQ8GS9,network technician (SaaS),2019,San Francisco,0,none,startup,2,123659
+72OGUM,software engineer (payments),2019,Raleigh NC,0,masters,corp,3,120726
+4YHFRI,junior desktop support technician (networking),2022,San Francisco,0,bachelors,corp,2,86944
+56S41C,lead site reliability engineer (distributed systems),2021,Boston,0,masters,corp,11,204038
+C9R5BY,junior backend engineer (payments),2023,Chicago,0,bachelors,small_business,0,131155
+4ZIM5H,backend engineer (entry level),2021,St. Louis,0,bachelors,big_tech,1,160167
+WBZYII,principal backend engineer (platform),2025,San Francisco,0,bachelors,corp,13,343238
+HPSJ3E,BI analyst (new grad) (experimentation),2023,Miami,0,bachelors,small_business,1,79608
+NEWALP,product operations specialist (entry level),2023,San Francisco,0,bachelors,corp,1,243980
+4C69B5,principal data analyst (SQL),2018,Miami,0,bachelors,corp,10,111699
+P398QT,senior full stack engineer (security),2020,Boston,0,bachelors,startup,5,185815
+5B7B9F,senior software engineer (distributed systems),2022,Denver,0,masters,corp,7,182432
+AU5G9G,junior operations analyst (experimentation),2022,New York City,0,none,startup,0,119937
+8AJXVY,senior BI analyst (experimentation),2018,Seattle,0,bachelors,big_tech,6,171496
+PZ6TRN,mobile app developer (security),2017,San Francisco,0,masters,big_tech,4,222042
+X78GUO,junior business analyst (dashboarding),2024,Seattle,0,none,startup,2,140583
+5EEXPW,senior backend engineer (payments),2019,New York City,0,bachelors,small_business,7,166167
+XBYLL5,staff full stack engineer (cloud),2024,Seattle,0,bachelors,small_business,13,181695
+RZVCVL,network technician intern,2021,San Francisco,0,none,big_tech,0,120748
+E9OQ7T,computer vision engineer (recommendation systems),2024,Austin TX,0,masters,startup,5,239649
+AVTY3L,backend engineer (entry level) (platform),2022,Austin TX,0,bachelors,big_tech,0,179039
+OWDSNL,senior backend engineer (security),2020,Dallas,0,bachelors,big_tech,10,214644
+Z1M3ST,senior BI analyst (SQL),2021,Orlando,0,bachelors,small_business,7,72234
+G9PTH9,senior frontend engineer (cloud),2024,New York City,0,bachelors,big_tech,6,262856
+UPD851,lead operations analyst (experimentation),2022,Austin TX,0,bachelors,corp,9,114877
+CTXCFZ,backend engineer (entry level) (security),2023,San Francisco,0,masters,big_tech,1,227655
+S7MLJ7,frontend engineer (entry level),2018,San Francisco,0,none,corp,0,141469
+D4RM29,senior program manager (platform),2021,Dallas,0,bachelors,startup,10,221646
+FR1M1W,machine learning engineer (new grad),2023,Kansas City MO,0,masters,startup,0,178664
+77ATAN,HR coordinator (finance),2022,Seattle,0,bachelors,corp,5,68309
+1BLX9I,lead technical product manager (B2B),2025,New York City,1,masters,small_business,10,237984
+UQJNDS,BI analyst,2023,San Antonio,0,bachelors,corp,5,99341
+YHYPKI,analytics engineer (dashboarding),2023,San Antonio,0,bachelors,corp,3,83548
+N05HJK,business analyst (SQL),2023,Dallas,0,bachelors,startup,3,130417
+JRW9VK,lead data analyst (dashboarding),2021,Seattle,0,bachelors,corp,11,156401
+88Y40M,administrative assistant (operations),2020,New York City,0,bachelors,corp,6,84774
+567CG8,frontend engineer (platform),2021,San Francisco,0,masters,small_business,2,139428
+5FKS83,senior backend engineer (security),2018,Seattle,0,none,big_tech,9,215854
+D59VIZ,data analyst (entry level) (dashboarding),2024,New York City,0,bachelors,big_tech,1,203164
+0KFB36,junior office coordinator (operations),2020,New York City,0,none,big_tech,0,74520
+9UR0DT,junior desktop support technician (SaaS),2020,Boston,0,bachelors,corp,0,66039
+KA6H8C,senior IT support technician,2021,Boston,0,none,small_business,9,89571
+5G3C97,operations analyst (SQL),2020,Denver,0,none,startup,2,91567
+2DO86A,senior network technician (SaaS),2018,Boston,0,none,startup,7,111564
+UDV4YU,junior mobile app developer (platform),2017,Denver,0,masters,big_tech,2,177385
+WPBB8G,junior BI analyst (SQL),2021,Boulder,0,bachelors,corp,2,106984
+W49T9L,"staff research scientist, NLP",2023,Philadelphia,0,phd,corp,12,325212
+2PTJFQ,software engineer (payments),2021,New York City,0,bachelors,small_business,3,128825
+N8MELZ,cloud infrastructure engineer (security),2022,Orlando,0,bachelors,big_tech,2,130413
+0791EU,senior backend engineer (security),2020,Seattle,0,none,startup,9,224201
+AK27HV,lead computer vision engineer (LLMs),2024,San Francisco,0,masters,startup,10,385865
+9VD1ZX,senior systems administrator,2024,St. Louis,0,none,corp,5,86984
+M4XI4I,software engineer (payments),2021,Denver,0,masters,startup,4,200027
+GCXFXX,junior backend engineer (platform),2020,Chicago,0,bachelors,small_business,0,112417
+Q1KZ1E,HR coordinator intern (HR),2018,Austin TX,0,none,big_tech,0,68029
+UU5VD5,lead BI analyst (experimentation),2024,New York City,0,bachelors,big_tech,12,233133
+KX7E2A,junior site reliability engineer (payments),2025,San Francisco,0,bachelors,corp,1,182439
+I8RA0J,staff software engineer,2022,New York City,0,bachelors,corp,13,254297
+Q1ONHJ,lead HR coordinator (operations),2022,New York City,0,bachelors,big_tech,10,124133
+A7D5BL,technical project manager (B2B),2023,New York City,0,bachelors,corp,5,250506
+UDUAX9,principal site reliability engineer (payments),2022,Seattle,0,bachelors,big_tech,14,370361
+3QOAAX,junior backend engineer (cloud),2024,Austin TX,1,bachelors,big_tech,1,274232
+36Q18M,junior systems administrator (SaaS),2021,Austin TX,1,none,small_business,0,59856
+NK1RU7,HR coordinator (HR),2023,Boulder,0,none,startup,2,64298
+RMDP4X,cloud infrastructure engineer (cloud),2021,Seattle,0,masters,corp,3,210672
+BHG860,junior full stack engineer (platform),2022,Chicago,0,bachelors,startup,0,147089
+73CJY9,cloud infrastructure engineer (platform),2021,Seattle,0,bachelors,small_business,5,164682
+XSYL9O,analytics engineer (experimentation),2024,New York City,0,bachelors,startup,3,147287
+MOLKNQ,technical product manager (platform),2020,New York City,0,none,corp,4,180400
+ZALRM1,HR coordinator,2019,Denver,0,none,small_business,3,52431
+F8WGEH,recruiting coordinator (HR),2020,San Francisco,0,bachelors,startup,6,92876
+POGUC4,technical product manager (entry level) (growth),2020,Denver,1,none,corp,0,161491
+D9P344,site reliability engineer (payments),2023,San Francisco,0,bachelors,big_tech,6,385150
+ACAZ0Z,junior business analyst (experimentation),2022,San Francisco,0,bachelors,startup,2,150508
+D4CXGW,senior technical product manager (platform),2022,New York City,0,bachelors,startup,5,232977
+O56VST,lead administrative assistant (HR),2019,San Francisco,0,bachelors,big_tech,10,133819
+A0F1N5,applied scientist (entry level),2022,New York City,1,masters,big_tech,1,309868
+4IHNQ1,senior applied scientist (computer vision),2020,Raleigh NC,0,masters,big_tech,6,194279
+NUIHLG,principal network technician (SaaS),2020,St. Louis,0,bachelors,big_tech,10,107956
+ZNM46L,senior desktop support technician (SaaS),2023,Seattle,0,none,startup,10,140464
+AVFBHG,product operations specialist (entry level) (platform),2019,New York City,0,masters,corp,0,168873
+LSOKMZ,frontend engineer (distributed systems),2021,Buffalo,0,bachelors,startup,2,108086
+8IHXZZ,HR coordinator,2018,Buffalo,0,bachelors,small_business,4,33641
+ABVCQG,full stack engineer (new grad) (cloud),2023,New York City,0,bachelors,startup,1,187527
+KB90UX,backend engineer (new grad) (cloud),2019,Seattle,0,bachelors,corp,0,150234
+1X28BC,product manager (platform),2017,New York City,0,none,small_business,3,115863
+V5I0K3,junior business analyst,2021,Austin TX,0,none,corp,2,94474
+E479B1,analytics engineer (experimentation),2024,Seattle,0,bachelors,big_tech,2,175067
+2RFE7Z,systems administrator intern,2017,Boston,0,bachelors,startup,0,103880
+34PVEN,administrative assistant intern (HR),2021,Denver,0,none,small_business,0,35585
+KWZ3OA,frontend engineer (entry level) (security),2022,San Francisco,0,masters,small_business,0,151522
+UPEM9M,mobile app developer (entry level) (cloud),2016,Austin TX,0,bachelors,corp,0,101140
+8T47G9,lead technical product manager (B2B),2021,Raleigh NC,0,bachelors,corp,12,234385
+DMJXS0,senior frontend engineer (payments),2024,San Francisco,0,bachelors,big_tech,8,307199
+NLWIA5,"senior research scientist, computer vision (NLP)",2021,Denver,0,phd,startup,10,362913
+241XQ7,principal principal research scientist,2020,New York City,0,phd,corp,15,382216
+3QKXIQ,junior NLP engineer (LLMs),2022,Buffalo,0,masters,corp,1,125605
+NQ3UB9,administrative assistant (finance),2021,Seattle,0,none,big_tech,2,97063
+77XII1,site reliability engineer (payments),2019,Raleigh NC,0,bachelors,startup,3,135013
+1146PF,office administrator,2018,Boston,0,bachelors,corp,6,64089
+YEML1V,backend engineer (distributed systems),2021,Austin TX,0,bachelors,big_tech,6,200246
+1U6MMX,"research scientist, computer vision (applied ML)",2023,St. Louis,0,phd,big_tech,4,224389
+HP5WZV,senior computer vision engineer (computer vision),2023,San Francisco,0,bachelors,big_tech,9,359669
+I3AARW,principal full stack engineer (platform),2024,Raleigh NC,1,masters,startup,10,241039
+27IDP5,frontend engineer (security),2023,New York City,0,bachelors,startup,5,205749
+SEUK72,junior mobile app developer (payments),2021,Seattle,0,bachelors,small_business,1,145950
+KUU1LP,full stack engineer (payments),2024,New York City,0,bachelors,small_business,2,193084
+J0BE74,operations analyst (new grad) (SQL),2024,Denver,0,bachelors,startup,1,118101
+JJU24U,lead AI product engineer (MLOps),2025,Denver,0,masters,startup,9,236327
+F07GJD,BI analyst,2025,San Francisco,0,bachelors,big_tech,6,261683
+9IFL79,staff software engineer (payments),2020,Raleigh NC,0,bachelors,startup,8,177645
+NSVL93,senior business analyst (dashboarding),2023,Seattle,0,bachelors,startup,6,154011
+LE6QMC,"research scientist, computer vision (computer vision)",2024,Seattle,0,masters,small_business,6,287112
+2D0OIH,site reliability engineer (distributed systems),2024,San Francisco,0,masters,corp,2,217067
+OAZ0G2,principal technical product manager,2018,San Antonio,1,bachelors,small_business,11,142501
+VAZ5TL,lead recruiting coordinator (finance),2019,Richmond VA,0,none,corp,8,53510
+5YWJUR,frontend engineer (new grad) (cloud),2025,Buffalo,0,bachelors,corp,0,126059
+08X7UU,product manager (entry level) (growth),2024,Philadelphia,0,none,corp,1,127351
+782O48,mobile app developer intern (cloud),2025,San Francisco,0,masters,corp,0,239093
+D5HMF8,product operations specialist (platform),2024,Denver,0,none,big_tech,2,155968
+F9QRXV,network technician (new grad),2024,Philadelphia,0,bachelors,startup,0,105178
+7HX5FB,"senior research scientist, computer vision (NLP)",2023,Boulder,0,phd,big_tech,9,420000
+BU35PU,lead machine learning engineer (MLOps),2021,New York City,0,masters,startup,9,254584
+AAYJAV,ML platform engineer (computer vision),2020,Austin TX,0,masters,corp,6,237084
+Z0FDHT,office coordinator (operations),2021,Austin TX,0,bachelors,corp,2,63730
+E3OQKJ,analytics engineer (SQL),2022,New York City,0,bachelors,startup,4,161712
+JVKXXC,senior mobile app developer,2024,Austin TX,1,bachelors,corp,8,211949
+7XYPVV,mobile app developer (cloud),2020,Denver,0,masters,corp,5,180250
+AKUQ2F,senior analytics engineer,2021,San Francisco,0,none,startup,8,167869
+BJHYOD,data analyst (entry level) (SQL),2023,Birmingham AL,1,bachelors,corp,0,70129
+Z1HWN4,business analyst (entry level) (experimentation),2024,St. Louis,0,bachelors,startup,0,121453
+41G9A9,junior analytics engineer (experimentation),2019,Boston,0,bachelors,startup,2,133538
+B4LKJA,senior backend engineer (cloud),2022,Boston,0,masters,corp,9,198290
+7RHJ0K,staff product manager (growth),2021,Dallas,0,bachelors,corp,8,168400
+58GBOR,desktop support technician,2023,Boston,0,bachelors,big_tech,5,119672
+9CLKOT,"senior research scientist, NLP (computer vision)",2024,New York City,0,masters,big_tech,7,420000
+XR8TXB,product operations specialist,2025,Austin TX,1,masters,startup,3,216082
+QFRDJU,product operations specialist (entry level) (platform),2024,Boston,0,bachelors,startup,1,199971
+7T6X22,executive assistant (HR),2022,New York City,0,none,big_tech,4,83885
+B4QBDQ,technical project manager (entry level) (growth),2020,San Francisco,0,bachelors,big_tech,0,234442
+V08J58,site reliability engineer intern (security),2022,New York City,0,bachelors,startup,0,172516
+4NYGS7,senior computer vision engineer (computer vision),2025,Austin TX,0,masters,big_tech,9,390309
+8JDH3M,full stack engineer (payments),2023,Buffalo,0,bachelors,big_tech,5,159394
+FXCGP5,NLP engineer (entry level) (LLMs),2021,San Antonio,0,bachelors,big_tech,0,162822
+NCYCL8,senior full stack engineer (security),2024,Boston,0,bachelors,big_tech,9,301609
+KB7YE5,product manager intern (growth),2023,Philadelphia,0,bachelors,startup,0,130935
+INZ2BP,business analyst (entry level) (SQL),2020,Seattle,0,bachelors,startup,1,154314
+YVKKSX,BI analyst (dashboarding),2024,Seattle,0,bachelors,corp,5,131238
+6BZ2DM,principal research scientist (computer vision),2022,Kansas City MO,0,phd,corp,4,266117
+MDUCRN,network technician,2021,Boston,0,bachelors,corp,6,104926
+FOSHTX,junior administrative assistant (finance),2024,San Francisco,0,none,corp,1,82172
+TCQLNF,full stack engineer (platform),2024,New York City,1,bachelors,small_business,6,197224
+CVETM0,applied scientist (LLMs),2025,Buffalo,1,bachelors,big_tech,4,196007
+BC90JS,BI analyst,2021,San Francisco,0,bachelors,small_business,4,129354
+9122YK,junior operations analyst (experimentation),2021,Boulder,0,masters,big_tech,1,174002
+PSSOSC,junior frontend engineer (security),2022,Buffalo,1,bachelors,corp,1,116446
+VM0OVZ,lead desktop support technician (SaaS),2020,San Francisco,0,none,corp,8,86501
+7MD7DS,BI analyst (experimentation),2022,New York City,0,bachelors,startup,6,175021
+6IM2G0,software engineer (distributed systems),2025,Denver,0,bachelors,startup,2,154598
+O1NB6X,site reliability engineer (cloud),2021,Seattle,0,bachelors,startup,3,167823
+KJN0B2,site reliability engineer (platform),2022,San Francisco,0,bachelors,startup,4,200107
+GVPDF6,product operations specialist,2019,Raleigh NC,0,bachelors,startup,5,165194
+A77K7E,senior technical project manager (AI),2023,Raleigh NC,0,bachelors,corp,10,190948
+DZ4NHA,help desk specialist (networking),2022,New York City,0,bachelors,big_tech,5,164232
+58MFOD,mobile app developer (platform),2019,New York City,0,bachelors,startup,4,170671
+SRT67Q,help desk specialist (Windows/Mac),2022,St. Louis,0,bachelors,small_business,4,56798
+J8A8VK,senior operations analyst (dashboarding),2023,New York City,0,masters,startup,5,179706
+B59U6F,principal site reliability engineer (security),2018,Raleigh NC,0,bachelors,big_tech,13,229419
+2ZU5XK,site reliability engineer (platform),2023,San Francisco,0,bachelors,startup,4,267627
+3F5EAC,junior backend engineer (cloud),2022,Kansas City MO,0,masters,small_business,1,98037
+9LNQ6X,junior help desk specialist (SaaS),2022,San Francisco,0,none,corp,2,107727
+J7E1BH,full stack engineer (security),2017,New York City,0,bachelors,startup,3,218481
+1CGMO7,frontend engineer (new grad) (platform),2024,Boston,0,bachelors,corp,1,163208
+9GKJVU,administrative assistant (finance),2022,Seattle,0,bachelors,big_tech,2,85304
+FLQ6C0,senior product manager,2016,Buffalo,0,bachelors,startup,10,147078
+0N6GDG,data analyst,2019,Denver,0,bachelors,corp,4,112320
+APPPC1,junior systems administrator (Windows/Mac),2016,San Francisco,1,none,corp,2,91105
+NRFS5M,senior frontend engineer (distributed systems),2022,Dallas,0,bachelors,startup,5,179081
+4WKEXX,senior backend engineer (cloud),2023,Buffalo,1,bachelors,corp,9,180723
+ZVP9X0,office administrator (operations),2023,Chicago,0,bachelors,corp,4,71922
+N2P08Z,full stack engineer (new grad) (cloud),2024,New York City,0,bachelors,big_tech,1,186768
+6V9L32,senior mobile app developer (distributed systems),2021,San Francisco,0,bachelors,big_tech,6,268115
+4WMXRK,mobile app developer (new grad) (payments),2019,San Francisco,0,bachelors,corp,1,169074
+BMBFUJ,network technician (new grad) (networking),2022,Orlando,0,bachelors,corp,1,68667
+RBG5LI,frontend engineer (security),2023,Raleigh NC,0,bachelors,small_business,2,131354
+HOW5D4,junior cloud infrastructure engineer (payments),2021,New York City,0,bachelors,corp,1,172886
+ZAB76K,software engineer (security),2024,Austin TX,0,bachelors,small_business,5,152563
+XK1RFQ,administrative assistant,2022,New York City,0,bachelors,corp,5,92728
+5RIS81,data analyst (dashboarding),2023,New York City,0,none,startup,2,128732
+GNTKX6,senior recruiting coordinator (operations),2018,New York City,0,none,big_tech,8,92556
+T0M2GP,backend engineer (security),2024,St. Louis,0,bachelors,corp,5,167168
+TXEVLL,operations analyst (new grad) (SQL),2020,Denver,0,bachelors,corp,1,82718
+93WUIP,product operations specialist intern (B2B),2023,San Francisco,0,bachelors,corp,0,189341
+X6J8H5,junior AI product engineer (NLP),2024,San Francisco,0,masters,startup,0,289351
+H8SWT6,senior ML platform engineer (LLMs),2022,Seattle,0,phd,big_tech,8,382753
+1XK5F7,program manager (B2B),2018,Seattle,0,bachelors,corp,4,161623
+WIHHO3,cloud infrastructure engineer (security),2024,San Francisco,1,masters,startup,2,271255
+DAPK50,program manager intern (B2B),2024,Orlando,0,bachelors,small_business,0,93426
+6Q7YUI,lead data analyst,2020,Seattle,0,masters,startup,10,190897
+CPZ6C0,senior site reliability engineer (security),2020,Seattle,0,bachelors,startup,9,260784
+X3REJ4,backend engineer (platform),2021,St. Louis,0,none,corp,4,131358
+XHRS1X,business analyst (experimentation),2019,Austin TX,0,none,corp,4,94232
+QHWZ29,staff analytics engineer (dashboarding),2023,San Francisco,0,bachelors,startup,9,182451
+ESFU5X,administrative assistant (operations),2016,Denver,0,bachelors,big_tech,4,71419
+E2KTTV,full stack engineer (payments),2020,Denver,0,bachelors,startup,2,150599
+TU2UUX,data analyst,2023,Seattle,0,masters,big_tech,6,253743
+H07LPC,AI product engineer (entry level),2022,San Francisco,1,masters,big_tech,0,363528
+VH9PV7,software engineer intern (distributed systems),2023,San Francisco,1,bachelors,big_tech,0,207020
+S4F0L2,staff technical project manager (growth),2024,Philadelphia,0,masters,big_tech,10,275373
+JXDE03,junior ML platform engineer (NLP),2023,St. Louis,0,masters,big_tech,2,197996
+XYRFPQ,cloud infrastructure engineer (distributed systems),2021,San Francisco,0,masters,small_business,4,187404
+5LGIA4,software engineer (distributed systems),2024,Philadelphia,0,bachelors,big_tech,5,201422
+DK9MWE,backend engineer (payments),2022,San Antonio,0,bachelors,corp,6,153499
+7DSBHE,executive assistant,2021,New York City,0,bachelors,startup,2,93607
+S9PD1U,senior backend engineer,2023,New York City,1,none,big_tech,9,331868
+IEE1GH,"principal research scientist, NLP (applied ML)",2024,New York City,0,phd,big_tech,11,420000
+GKI1OO,lead cloud infrastructure engineer (payments),2021,San Francisco,0,bachelors,small_business,10,199745
+5Z93UF,site reliability engineer (security),2022,San Francisco,0,bachelors,big_tech,6,363033
+OF6DSA,junior mobile app developer,2020,Philadelphia,0,bachelors,startup,2,123855
+A2LQSN,network technician,2018,Seattle,0,none,corp,3,75554
+AL5LP2,analytics engineer (experimentation),2021,Denver,0,bachelors,corp,6,135096
+A586KY,mobile app developer (security),2023,Seattle,0,bachelors,startup,6,219597
+CJ7NN4,cloud infrastructure engineer (distributed systems),2021,Seattle,0,masters,small_business,6,223351
+43QLGD,lead technical product manager (B2B),2020,Orlando,0,bachelors,startup,12,188585
+2FCZ8P,software engineer (distributed systems),2024,Austin TX,0,bachelors,small_business,4,211747
+V7HOAE,systems administrator (Windows/Mac),2021,Dallas,1,none,small_business,6,67309
+IQG9IR,lead IT support technician (networking),2018,Buffalo,0,none,corp,8,47643
+UJXDXS,applied scientist (MLOps),2024,New York City,0,masters,big_tech,3,310372
+I6ABJW,lead product operations specialist (growth),2023,New York City,0,masters,small_business,8,194574
+UME4CM,help desk specialist (Windows/Mac),2019,San Francisco,0,bachelors,small_business,6,94941
+BB08KJ,junior machine learning engineer (LLMs),2025,New York City,0,masters,big_tech,0,255422
+VLLWLN,full stack engineer (new grad),2023,Seattle,0,bachelors,startup,0,190042
+M95ZC8,network technician (Windows/Mac),2023,San Francisco,0,none,startup,5,141800
+S9PU1L,lead computer vision engineer (NLP),2025,New York City,1,bachelors,big_tech,10,332211
+VDRZUN,data analyst (dashboarding),2021,Denver,0,bachelors,small_business,2,93827
+2DDGSN,frontend engineer (entry level) (cloud),2021,Denver,0,bachelors,corp,0,140484
+T4E2M4,software engineer (platform),2024,Philadelphia,0,bachelors,startup,3,166368
+BEXL38,applied scientist (computer vision),2023,New York City,0,phd,corp,5,273663
+7CJY3K,program manager (entry level) (B2B),2024,Orlando,0,bachelors,corp,1,116158
+2VRJYM,senior cloud infrastructure engineer (payments),2020,Seattle,0,masters,corp,5,242580
+8G44LF,office administrator,2020,St. Louis,0,none,corp,3,52460
+AWH7FR,software engineer (entry level) (platform),2023,Denver,0,none,small_business,0,94379
+MO1DVH,backend engineer,2023,San Francisco,0,bachelors,corp,3,172900
+B8BL2R,senior office administrator (finance),2022,Denver,0,bachelors,corp,5,61596
+M5VEVR,applied scientist (entry level) (MLOps),2022,San Francisco,0,masters,corp,0,201251
+P3P4WP,senior backend engineer (security),2022,New York City,0,bachelors,corp,8,256995
+CTQ9OP,junior help desk specialist,2024,New York City,0,bachelors,small_business,0,74914
+687PVG,senior site reliability engineer (security),2023,Chicago,0,bachelors,corp,10,230672
+UD4TB8,junior IT support technician (networking),2025,New York City,0,none,startup,2,98770
+ZM7NIY,business analyst,2021,Orlando,0,bachelors,small_business,4,70180
+9MM7YV,full stack engineer (entry level) (security),2024,San Francisco,0,bachelors,startup,0,216663
+TT7HK7,systems administrator,2021,Denver,0,bachelors,big_tech,2,90137
+TSSS50,lead IT support technician,2023,Boston,0,bachelors,startup,11,151793
+S5ZCW8,desktop support technician (new grad) (Windows/Mac),2022,Dallas,0,none,corp,1,63074
+819K54,lead frontend engineer (payments),2022,Denver,0,bachelors,corp,9,165723
+PR64BN,operations analyst (entry level) (experimentation),2022,Austin TX,0,bachelors,startup,0,98410
+YL61WQ,office coordinator (new grad) (operations),2022,Seattle,0,none,corp,1,68013
+FP76MG,site reliability engineer (cloud),2024,San Francisco,0,bachelors,corp,6,231799
+2TQLUE,business analyst (experimentation),2022,Columbus OH,0,masters,small_business,6,96968
+6CM3J7,NLP engineer (LLMs),2024,New York City,0,masters,startup,3,264175
+4HPMB2,mobile app developer,2019,Chicago,0,bachelors,corp,4,130744
+I4BADR,senior BI analyst (SQL),2024,San Francisco,0,bachelors,corp,9,179078
+HAYNIJ,desktop support technician intern (Windows/Mac),2023,Seattle,0,none,corp,0,89964
+8YZF1N,lead site reliability engineer (platform),2023,Kansas City MO,0,bachelors,big_tech,8,170103
+TET6PO,junior program manager (growth),2022,San Francisco,0,bachelors,corp,1,198272
+1ZRQAF,operations analyst (new grad) (experimentation),2025,Philadelphia,0,bachelors,corp,1,80686
+HP31L8,principal product operations specialist (AI),2022,San Francisco,0,bachelors,small_business,10,221149
+XGNK20,program manager (new grad) (growth),2021,San Francisco,0,bachelors,corp,1,164947
+LPQJZT,senior business analyst (SQL),2019,New York City,0,bachelors,corp,5,149759
+NMA7BS,executive assistant (finance),2022,San Francisco,0,bachelors,startup,2,128007
+85UMF7,operations analyst (SQL),2019,San Francisco,0,bachelors,big_tech,2,146056
+UHVQ4B,computer vision engineer,2023,New York City,0,masters,big_tech,5,389066
+952X3U,operations analyst (SQL),2025,Buffalo,0,bachelors,corp,2,97809
+GTZ8C3,full stack engineer (entry level),2019,New York City,0,masters,startup,1,222774
+PM17I2,senior BI analyst (dashboarding),2020,Seattle,0,bachelors,small_business,5,111850
+EZ4GS6,junior operations analyst (SQL),2020,San Francisco,0,bachelors,corp,1,145027
+4DEVKE,lead backend engineer (cloud),2022,New York City,0,bachelors,big_tech,11,295553
+0IGMY3,site reliability engineer (entry level) (platform),2023,San Francisco,0,bachelors,corp,1,213410
+4RUR8E,junior office administrator (HR),2019,Buffalo,0,bachelors,corp,0,41025
+DK8RLE,lead mobile app developer (payments),2023,Raleigh NC,0,bachelors,startup,8,174524
+JP7IC6,lead systems administrator (Windows/Mac),2017,San Francisco,0,bachelors,small_business,12,105336
+X1UIVB,site reliability engineer (payments),2024,Denver,0,bachelors,big_tech,5,273083
+1JQYRA,junior applied scientist (computer vision),2025,Bloomington IN,0,masters,small_business,2,128634
+V2P2WZ,mobile app developer,2024,Seattle,0,none,startup,5,195232
+ZYC5HM,frontend engineer (distributed systems),2021,New York City,0,masters,corp,5,195375
+OA2PGI,technical project manager (entry level) (growth),2017,New York City,0,bachelors,corp,1,145900
+DMXKP1,technical project manager (entry level),2024,New York City,0,bachelors,big_tech,0,216504
+QMWAAQ,junior frontend engineer (distributed systems),2023,Denver,0,none,big_tech,1,180262
+NB701D,junior executive assistant (HR),2021,Raleigh NC,0,none,small_business,1,42946
+ZLII2B,lead IT support technician,2022,Raleigh NC,0,none,big_tech,12,121182
+7JLHQD,senior software engineer (distributed systems),2023,Kansas City MO,0,none,small_business,9,121668
+UKK0UC,full stack engineer intern (distributed systems),2022,San Francisco,0,masters,small_business,0,154659
+ENQXEA,lead systems administrator (SaaS),2021,Boston,0,bachelors,corp,8,112296
+3ZKZVB,junior HR coordinator (HR),2019,New York City,0,none,corp,0,63533
+ZZ2FE6,site reliability engineer (distributed systems),2023,Kansas City MO,0,bachelors,big_tech,3,155047
+EMO6VN,mobile app developer (cloud),2024,Austin TX,0,bachelors,corp,2,204788
+MU37JA,data analyst (dashboarding),2021,New York City,0,masters,big_tech,5,198919
+3LNJUA,lead applied scientist,2024,Austin TX,0,bachelors,corp,10,252002
+95Q5OY,help desk specialist,2017,Raleigh NC,0,bachelors,corp,6,78450
+CJZ5DL,principal help desk specialist,2021,Orlando,0,none,small_business,14,66732
+JHJ9Y4,senior full stack engineer (distributed systems),2020,New York City,0,bachelors,corp,8,180756
+7EVNXA,ML platform engineer intern (computer vision),2024,Raleigh NC,0,masters,corp,0,139777
+Q7VX1D,senior executive assistant (finance),2020,New York City,0,bachelors,corp,9,91503
+PWLVBK,lead applied scientist (MLOps),2022,Austin TX,0,phd,big_tech,10,385103
+TAB6JR,IT support technician (networking),2022,San Francisco,0,bachelors,startup,4,159914
+4AV625,junior machine learning engineer (NLP),2024,Seattle,0,masters,big_tech,1,239634
+10SPO3,program manager (growth),2019,Raleigh NC,0,bachelors,big_tech,6,205492
+VJ0APU,software engineer (new grad),2023,New York City,0,bachelors,small_business,1,157540
+0ZWKYO,cloud infrastructure engineer intern,2024,Kansas City MO,0,bachelors,small_business,0,91167
+RLRL0K,senior office coordinator (operations),2025,New York City,0,bachelors,startup,8,95117
+OTUUZV,senior product operations specialist (AI),2020,San Francisco,0,bachelors,corp,8,281561
+WZTKKU,BI analyst (dashboarding),2022,San Francisco,0,bachelors,startup,2,137424
+YUFK4B,full stack engineer (distributed systems),2024,New York City,0,masters,corp,6,181701
+JXE779,junior mobile app developer (platform),2022,Chicago,0,bachelors,startup,0,144312
+ZQQDE5,technical project manager,2024,New York City,1,none,startup,6,287163
+47RT4Z,junior mobile app developer (distributed systems),2020,New York City,0,masters,corp,0,152253
+1BM9FC,analytics engineer (entry level),2023,New York City,0,masters,corp,0,168873
+A0DIXF,administrative assistant (finance),2022,Chicago,0,none,startup,5,88435
+1C9SUI,lead software engineer (distributed systems),2020,Boston,0,bachelors,corp,12,179629
+GFWJ3D,senior office administrator,2020,Raleigh NC,1,none,corp,5,55039
+PP4M5J,BI analyst (SQL),2018,New York City,0,bachelors,startup,2,135355
+BFHRRW,staff BI analyst (SQL),2017,New York City,0,bachelors,big_tech,11,224990
+9GZ75R,junior backend engineer (distributed systems),2021,Buffalo,0,masters,corp,1,98001
+A7MMA6,IT support technician (SaaS),2023,Philadelphia,0,none,big_tech,4,113531
+HOCQWY,applied scientist (recommendation systems),2021,Chicago,0,masters,big_tech,5,271572
+UI0VO2,BI analyst (SQL),2018,Seattle,0,masters,startup,2,200123
+SULGKW,office administrator,2021,San Francisco,0,none,small_business,2,61039
+PZZTOS,IT support technician,2022,San Francisco,0,none,corp,5,118644
+YVKDVG,operations analyst (dashboarding),2019,New York City,0,masters,corp,4,141741
+H5I685,software engineer (distributed systems),2023,Seattle,0,bachelors,small_business,5,187778
+EK9T9K,cloud infrastructure engineer (platform),2024,New York City,1,bachelors,small_business,2,168731
+JOA8P3,BI analyst intern (dashboarding),2017,Dallas,1,bachelors,startup,0,96357
+VDNC7Q,technical project manager (growth),2022,San Francisco,0,bachelors,corp,4,286269
+OOD40A,junior business analyst,2019,Seattle,0,bachelors,big_tech,2,161582
+GZTTDW,senior site reliability engineer (platform),2021,Raleigh NC,0,masters,small_business,7,161104
+6KC99E,junior analytics engineer (SQL),2025,Raleigh NC,0,bachelors,small_business,1,93392
+50F7AN,junior frontend engineer (platform),2025,New York City,0,masters,corp,0,179184
+VS4O6A,principal technical project manager (platform),2024,Boulder,0,bachelors,small_business,13,249115
+Z0P4WV,backend engineer (entry level) (platform),2022,San Francisco,0,masters,big_tech,1,253169
+UINT4S,full stack engineer (security),2021,San Francisco,0,masters,small_business,6,192561
+EYJZ6L,software engineer (new grad) (payments),2023,New York City,0,masters,big_tech,1,238873
+9JVRHJ,technical product manager,2019,Austin TX,0,bachelors,small_business,6,149091
+5W2EOV,lead analytics engineer (dashboarding),2022,Boulder,0,bachelors,startup,8,150156
+MUT8YC,senior mobile app developer (cloud),2023,New York City,0,masters,startup,9,322772
+CU20T8,frontend engineer (new grad) (security),2023,San Francisco,0,bachelors,startup,1,192854
+YJCGCZ,lead software engineer (payments),2024,New York City,0,bachelors,big_tech,11,251724
+LMDVDW,lead systems administrator,2020,Miami,0,none,small_business,8,66672
+1B48HQ,lead research scientist (computer vision),2025,San Antonio,0,phd,corp,11,282991
+SCOL9V,technical product manager (B2B),2019,Raleigh NC,0,bachelors,corp,3,165052
+EPYJFA,senior technical project manager,2021,Austin TX,1,bachelors,big_tech,10,276640
+PMNURS,full stack engineer (payments),2022,Seattle,0,bachelors,big_tech,5,276078
+MY2OK6,staff AI product engineer,2024,San Francisco,0,masters,big_tech,11,420000
+7OKQBX,junior help desk specialist (networking),2020,Austin TX,0,none,big_tech,1,97190
+EY8JTI,help desk specialist (networking),2023,Dallas,0,none,corp,3,75091
+OKVJN2,lead frontend engineer (platform),2018,Austin TX,0,bachelors,corp,9,189569
+Z9UVEX,junior HR coordinator (operations),2023,Denver,0,bachelors,big_tech,1,76767
+7LG1A4,business analyst intern (dashboarding),2023,New York City,1,bachelors,corp,0,132828
+9KPJDV,office coordinator (finance),2024,San Francisco,0,bachelors,corp,4,89997
+V1L34S,cloud infrastructure engineer (distributed systems),2021,Seattle,0,bachelors,corp,5,196248
+6EVSC7,junior IT support technician,2019,New York City,0,bachelors,big_tech,2,117785
+1X0DEN,product manager (platform),2018,New York City,1,bachelors,big_tech,4,238782
+PVBWWB,technical product manager (growth),2023,San Francisco,0,masters,big_tech,4,336209
+X0B3P9,senior ML platform engineer,2022,Orlando,0,masters,startup,5,220938
+0K8Y5P,network technician (SaaS),2020,San Francisco,0,bachelors,corp,6,139697
+PPKF9P,lead full stack engineer (platform),2023,New York City,0,masters,startup,10,278915
+FLJWHL,cloud infrastructure engineer (new grad) (platform),2016,Austin TX,0,bachelors,corp,0,104473
+TXVQ4S,software engineer (entry level) (security),2022,St. Louis,0,bachelors,startup,0,134776
+UCINJ2,principal research scientist (generative models),2021,Seattle,1,phd,corp,3,285220
+T4DJL1,junior computer vision engineer (computer vision),2021,New York City,0,masters,small_business,0,178882
+9S2LHJ,lead full stack engineer (security),2020,New York City,0,bachelors,corp,12,248472
+Z8JHWQ,principal frontend engineer (distributed systems),2019,Denver,0,bachelors,corp,12,190323
+YBWY1A,lead principal research scientist (computer vision),2022,San Francisco,0,phd,startup,8,402674
+R546BG,BI analyst (dashboarding),2022,Austin TX,0,bachelors,corp,4,120313
+N1OMET,operations analyst (SQL),2024,New York City,0,masters,corp,6,164154
+EXRHL1,frontend engineer,2023,San Francisco,0,bachelors,corp,5,191122
+GYAWKX,junior product operations specialist (platform),2019,San Francisco,0,bachelors,corp,0,177371
+LRTMAS,office coordinator (entry level) (operations),2022,San Francisco,0,none,small_business,1,51835
+KGYE3R,staff data analyst (dashboarding),2024,San Francisco,0,bachelors,big_tech,8,279271
+7KKOAK,lead mobile app developer,2024,New York City,0,bachelors,startup,9,306344
+JDO2F0,backend engineer (entry level),2020,New York City,0,bachelors,corp,1,132259
+NR80UC,ML platform engineer (MLOps),2021,Austin TX,0,bachelors,corp,2,167902
+TUSZCO,operations analyst (dashboarding),2022,Raleigh NC,0,bachelors,small_business,4,97944
+BI00BT,senior technical product manager (B2B),2017,San Antonio,0,bachelors,corp,5,145398
+ZVGOHN,technical product manager (growth),2018,Orlando,0,masters,corp,2,137923
+LQYGH3,program manager (entry level) (growth),2019,New York City,0,none,small_business,1,127397
+FGTK60,senior network technician (Windows/Mac),2023,San Francisco,0,bachelors,small_business,5,114513
+IACJNV,senior operations analyst (SQL),2023,Raleigh NC,0,bachelors,small_business,7,109838
+QJVPHZ,network technician,2023,Dallas,0,none,corp,5,74604
+U44TD2,network technician (Windows/Mac),2023,Boston,1,bachelors,startup,5,121737
+MIT48Y,junior program manager (platform),2023,Miami,0,masters,corp,1,128972
+DPXYIR,junior computer vision engineer (LLMs),2024,Austin TX,0,masters,big_tech,0,243855
+H3657N,frontend engineer (payments),2020,San Francisco,0,bachelors,big_tech,6,242480
+VB2HT4,business analyst (SQL),2020,Denver,0,bachelors,corp,3,106839
+AHTDEI,desktop support technician (networking),2017,San Francisco,0,bachelors,corp,6,95583
+7LI296,program manager (new grad),2017,Seattle,0,masters,corp,0,176786
+OYL4HB,junior software engineer (security),2023,San Francisco,0,bachelors,startup,1,185446
+IBLVMZ,backend engineer intern (security),2023,Austin TX,0,bachelors,corp,0,146955
+LOS5QO,junior office coordinator (finance),2025,New York City,1,bachelors,corp,2,84082
+8O6ZVH,program manager (B2B),2019,St. Louis,0,bachelors,startup,4,149779
+FZIVN7,staff computer vision engineer (NLP),2022,Austin TX,0,masters,startup,8,309845
+P7HT4V,senior site reliability engineer (payments),2018,San Antonio,0,masters,corp,10,177321
+U5HKSZ,senior executive assistant (operations),2020,Denver,0,none,small_business,10,59693
+X5LG22,site reliability engineer (payments),2021,Denver,0,masters,corp,2,135361
+PZ0I0U,lead mobile app developer (distributed systems),2020,Denver,0,bachelors,big_tech,10,255157
+C8QCKZ,administrative assistant (finance),2021,Philadelphia,0,bachelors,corp,4,58816
+JBJK90,lead product operations specialist (platform),2016,Boston,0,bachelors,corp,12,167944
+36IXY9,mobile app developer (cloud),2024,Boston,1,bachelors,corp,5,199500
+Q5UK4H,help desk specialist (networking),2022,St. Louis,0,bachelors,corp,5,77680
+HNEJND,operations analyst (experimentation),2016,San Francisco,1,masters,startup,4,192256
+SFA1XY,lead applied scientist (computer vision),2023,Seattle,0,bachelors,corp,12,272790
+ECBZP6,computer vision engineer (NLP),2023,New York City,0,phd,big_tech,4,404331
+6BPV5K,junior office coordinator (HR),2016,Buffalo,0,none,corp,1,27841
+N8GXNJ,site reliability engineer (security),2022,San Francisco,0,none,corp,3,161716
+3N1UKJ,lead product manager (platform),2017,Miami,0,bachelors,big_tech,12,175226
+821XRK,senior machine learning engineer (MLOps),2023,Raleigh NC,0,phd,big_tech,10,334800
+5288L4,technical project manager (new grad),2024,New York City,0,bachelors,corp,0,167991
+KLGS3P,backend engineer (payments),2019,Austin TX,0,masters,corp,2,161666
+YRTFHR,junior operations analyst (dashboarding),2020,Seattle,0,bachelors,corp,2,120727
+BXLB1N,site reliability engineer (entry level) (security),2016,San Francisco,0,bachelors,corp,0,175360
+OCTJOD,mobile app developer (cloud),2022,Seattle,1,masters,startup,2,234980
+XECD2W,IT support technician (entry level) (Windows/Mac),2022,New York City,0,bachelors,big_tech,0,139082
+GR3GO5,business analyst (entry level) (SQL),2024,Seattle,0,bachelors,startup,0,144031
+E11FII,senior mobile app developer (cloud),2019,Denver,0,masters,big_tech,7,207347
+9IIZ4U,principal business analyst (dashboarding),2022,Dallas,0,bachelors,startup,11,166654
+QD4DL8,frontend engineer (security),2024,Boulder,0,bachelors,small_business,2,153769
+65NGH3,junior systems administrator,2023,Raleigh NC,0,bachelors,small_business,0,62774
+9GP22F,staff software engineer (distributed systems),2020,Boston,1,masters,corp,10,202672
+XRLE80,senior software engineer (platform),2019,Denver,0,bachelors,corp,6,164876
+JXGOYM,junior help desk specialist (Windows/Mac),2019,Boston,1,bachelors,startup,0,92372
+X52IRW,applied scientist intern (LLMs),2022,Boston,0,bachelors,startup,0,215468
+DJ04E8,backend engineer,2019,Boston,0,bachelors,corp,6,168289
+H2OM87,principal research scientist (new grad),2019,Denver,0,phd,corp,0,207632
+VHCBCG,senior full stack engineer (security),2021,San Francisco,0,bachelors,corp,7,204056
+N85HEW,staff executive assistant (finance),2018,San Francisco,0,none,corp,8,83215
+ASEZ49,product operations specialist (new grad) (growth),2016,San Francisco,0,bachelors,big_tech,1,236152
+2OGUD7,backend engineer (security),2023,Boulder,0,bachelors,corp,5,184718
+RJXVAE,technical project manager intern,2024,Dallas,0,bachelors,corp,0,132286
+T14BN9,lead technical project manager,2023,Kansas City MO,0,masters,corp,10,198930
+6K7PNT,full stack engineer (platform),2022,New York City,0,bachelors,startup,5,262252
+RBXJ54,senior ML platform engineer (recommendation systems),2025,Seattle,0,bachelors,startup,6,262997
+2EQRGZ,principal desktop support technician (Windows/Mac),2022,Boston,0,none,big_tech,11,156666
+4V21GJ,applied scientist (MLOps),2024,Seattle,0,bachelors,corp,6,244115
+JQCCBK,staff data analyst,2021,San Francisco,0,bachelors,big_tech,12,245714
+ZXLCEF,program manager (entry level) (AI),2022,Raleigh NC,0,bachelors,corp,0,141641
+DEZJ7L,cloud infrastructure engineer,2021,Seattle,0,bachelors,startup,6,212442
+J2KORS,senior help desk specialist (networking),2020,San Francisco,0,bachelors,corp,10,130255
+XACJ6B,lead product operations specialist,2019,Boston,0,masters,corp,10,245995
+IV11EW,staff technical product manager (AI),2023,New York City,0,bachelors,startup,13,335866
+6SAV88,desktop support technician,2022,New York City,0,bachelors,big_tech,6,161030
+4PREZT,senior program manager (platform),2024,San Francisco,0,bachelors,small_business,5,199759
+GHDUEF,desktop support technician (Windows/Mac),2025,Buffalo,0,none,small_business,5,67116
+UQ95U2,program manager (AI),2024,New York City,0,bachelors,small_business,6,201557
+PCYUOS,ML platform engineer (computer vision),2022,Denver,1,phd,corp,5,253095
+9VULV1,cloud infrastructure engineer (security),2024,Bloomington IN,0,bachelors,small_business,5,93635
+GKE3EX,AI product engineer (MLOps),2020,Austin TX,0,masters,small_business,5,150030
+1VCCVG,cloud infrastructure engineer (cloud),2022,St. Louis,0,masters,corp,6,156747
+QNQN46,senior data analyst (experimentation),2019,Seattle,0,bachelors,corp,9,161135
+SV3MEL,backend engineer (cloud),2020,Seattle,0,bachelors,big_tech,4,195301
+2J15EV,software engineer (platform),2021,Princeton NJ,0,bachelors,startup,6,202647
+OUENA3,BI analyst (SQL),2025,Denver,0,bachelors,corp,5,140329
+MRZNLI,IT support technician,2020,San Francisco,0,bachelors,startup,6,134920
+3JSE1H,senior analytics engineer,2022,Raleigh NC,1,bachelors,startup,5,157522
+7DFXGD,NLP engineer (entry level) (recommendation systems),2024,Philadelphia,0,masters,startup,1,235656
+XUM63D,lead executive assistant,2025,Raleigh NC,0,bachelors,small_business,10,75450
+3Q4WYE,senior ML platform engineer (LLMs),2023,San Francisco,0,masters,startup,6,373314
+EAOQCL,machine learning engineer (MLOps),2021,San Francisco,0,bachelors,big_tech,6,323145
+8L3B62,site reliability engineer (distributed systems),2020,New York City,0,masters,big_tech,4,240692
+8AQKDR,analytics engineer (SQL),2019,Austin TX,0,none,startup,3,93345
+ODSQRX,product manager (entry level) (B2B),2021,Orlando,0,bachelors,startup,0,145628
+T7G54M,lead principal research scientist (generative models),2024,Austin TX,0,phd,corp,10,342574
+FSQKYY,business analyst (experimentation),2025,New York City,0,bachelors,startup,3,182497
+ZHA67I,junior HR coordinator (HR),2024,Buffalo,0,none,small_business,1,36519
+TFIRGP,cloud infrastructure engineer (new grad) (distributed systems),2021,Denver,0,bachelors,big_tech,1,188944
+1XH65G,HR coordinator intern (finance),2018,San Francisco,0,bachelors,big_tech,0,102684
+OP9PLP,technical product manager (new grad) (AI),2020,Seattle,0,masters,small_business,0,151740
+N0FX61,BI analyst (experimentation),2021,San Francisco,0,bachelors,corp,5,141929
+NFMW11,staff executive assistant (finance),2025,New York City,0,bachelors,startup,11,137170
+FE2R7V,frontend engineer (new grad) (distributed systems),2023,Raleigh NC,0,bachelors,corp,1,128877
+L9X8QN,junior frontend engineer (cloud),2024,San Antonio,0,bachelors,corp,0,120565
+7BGA47,staff operations analyst (SQL),2021,Seattle,0,bachelors,big_tech,9,185040
+XRFIMO,lead data analyst (SQL),2023,Austin TX,1,bachelors,small_business,9,166932
+EGFV7G,technical project manager (growth),2024,San Francisco,0,bachelors,startup,4,252755
+L4OAF3,junior business analyst (dashboarding),2023,Denver,1,bachelors,startup,2,128296
+T1LQVX,lead help desk specialist (SaaS),2019,San Francisco,0,none,small_business,10,80702
+KHQSEC,systems administrator,2019,Denver,0,bachelors,corp,6,72287
+Y5K5OQ,principal research scientist,2023,Austin TX,0,phd,small_business,2,214261
+FXY8JI,frontend engineer intern (platform),2021,New York City,1,none,startup,0,200504
+NRDSIB,junior frontend engineer (payments),2020,San Francisco,0,bachelors,startup,0,208673
+ND0FZM,junior cloud infrastructure engineer (payments),2021,Austin TX,0,bachelors,big_tech,2,198574
+6YR9N7,principal help desk specialist,2023,Boston,0,bachelors,corp,12,115187
+WF7FO0,backend engineer (cloud),2019,San Antonio,0,masters,corp,3,102523
+SNALBD,junior research scientist (NLP),2024,New York City,0,phd,startup,0,326019
+AC4K57,junior technical project manager (B2B),2024,Seattle,0,bachelors,corp,2,197883
+28NTHT,cloud infrastructure engineer (security),2021,San Francisco,0,none,corp,6,227072
+BHCANX,mobile app developer,2022,Seattle,0,bachelors,startup,5,248221
+JS1J1B,ML platform engineer (entry level) (MLOps),2025,New York City,0,phd,startup,0,282894
+1UD9C2,backend engineer (security),2019,New York City,1,bachelors,corp,5,225802
+3GNHYJ,help desk specialist intern (SaaS),2023,Raleigh NC,0,none,corp,0,65316
+A0PB29,software engineer (security),2023,Seattle,0,bachelors,corp,4,153035
+Y0GU1R,research scientist (computer vision),2025,San Francisco,0,phd,small_business,3,292080
+C8FN6P,full stack engineer (platform),2020,San Francisco,0,bachelors,small_business,2,144680
+87A5Y8,senior frontend engineer (distributed systems),2023,San Francisco,0,bachelors,small_business,7,193565
+D6OQJI,office administrator (finance),2021,Boston,0,bachelors,corp,4,69391
+MBLAOZ,desktop support technician (new grad) (Windows/Mac),2021,Boston,0,bachelors,small_business,0,81843
+LZIIAH,senior IT support technician (networking),2021,San Francisco,0,none,corp,5,101051
+P5K5FV,business analyst,2017,Raleigh NC,1,masters,corp,4,121528
+5GJ2CA,mobile app developer (payments),2017,St. Louis,0,bachelors,small_business,2,101840
+DNPD5U,junior analytics engineer (experimentation),2019,Boston,0,bachelors,big_tech,2,130867
+RF3K8K,staff desktop support technician (SaaS),2024,New York City,0,bachelors,small_business,13,143549
+3J527R,technical product manager (new grad) (B2B),2019,St. Louis,0,bachelors,small_business,0,86701
+WKJSR6,data analyst (dashboarding),2025,Austin TX,0,bachelors,big_tech,6,237071
+CEGLL9,full stack engineer (payments),2022,Boston,0,bachelors,startup,4,199441
+SB69B3,frontend engineer (distributed systems),2020,St. Louis,0,bachelors,big_tech,6,168747
+KIVNFQ,junior site reliability engineer (distributed systems),2023,Raleigh NC,0,bachelors,startup,0,162492
+JAZHOK,desktop support technician (networking),2018,Boston,0,none,small_business,3,61587
+LUT1ZR,product manager,2025,New York City,0,bachelors,corp,4,230245
+C6DTO4,senior technical product manager,2022,Raleigh NC,0,masters,big_tech,6,293655
+5QILNM,BI analyst (new grad) (SQL),2024,Kansas City MO,0,bachelors,small_business,0,68337
+C533PM,software engineer (new grad) (distributed systems),2022,Boulder,0,masters,big_tech,1,218294
+EA80K5,analytics engineer (entry level) (dashboarding),2022,San Francisco,1,masters,big_tech,1,216950
+MQ762S,systems administrator,2021,Seattle,0,none,startup,4,94026
+9SZHID,operations analyst (SQL),2022,Boston,0,bachelors,startup,4,164087
+A4LAVV,senior research scientist,2024,Boston,0,phd,startup,6,420000
+644NYE,senior analytics engineer (dashboarding),2024,Austin TX,0,bachelors,small_business,8,113545
+6BJYE1,junior analytics engineer (dashboarding),2021,Boston,0,masters,corp,2,124711
+Z0OGS2,junior backend engineer (security),2024,St. Louis,1,bachelors,corp,1,153776
+A4TYE8,office coordinator (HR),2019,Buffalo,0,none,corp,5,38571
+VU1962,full stack engineer (entry level) (cloud),2023,Boulder,0,bachelors,big_tech,1,222266
+A0UYDS,"principal research scientist, computer vision",2023,Kansas City MO,0,masters,big_tech,14,323754
+PVTD1A,junior ML platform engineer (NLP),2025,Philadelphia,0,masters,startup,1,226330
+RAJOYZ,data analyst (experimentation),2020,New York City,0,bachelors,corp,5,151035
+ICBA87,software engineer,2023,Seattle,0,bachelors,big_tech,4,274262
+SVXTZ4,junior full stack engineer (distributed systems),2023,Austin TX,0,bachelors,big_tech,2,206032
+YNQP8I,executive assistant (HR),2023,San Francisco,0,bachelors,big_tech,6,138144
+R69UCN,executive assistant (operations),2020,San Francisco,0,bachelors,small_business,6,65439
+QSR7IZ,ML platform engineer (recommendation systems),2023,Seattle,0,phd,big_tech,5,322935
+29JYNA,principal desktop support technician,2019,Chicago,0,none,corp,14,102437
+OG9B23,product manager (growth),2023,Seattle,0,bachelors,big_tech,2,258017
+S5S6A4,technical project manager (growth),2018,San Francisco,0,bachelors,small_business,4,160614
+6M0179,network technician (networking),2018,Orlando,0,none,corp,5,69422
+4DSMJU,lead ML platform engineer (computer vision),2022,New York City,0,masters,startup,11,346555
+QGG8HH,network technician (Windows/Mac),2025,St. Louis,0,bachelors,big_tech,5,108123
+FSD0DM,site reliability engineer (distributed systems),2024,Seattle,0,bachelors,big_tech,6,256007
+B6W85R,machine learning engineer (new grad) (recommendation systems),2023,San Francisco,0,bachelors,small_business,1,206067
+KTQNWJ,senior business analyst (dashboarding),2020,Pittsburgh PA,0,bachelors,corp,5,96913
+3ECO3R,junior product operations specialist (B2B),2022,San Francisco,1,bachelors,big_tech,0,289874
+0N3XOZ,operations analyst (entry level) (SQL),2024,St. Louis,0,bachelors,startup,0,93036
+QJ1CDO,senior product operations specialist (platform),2018,Orlando,0,bachelors,corp,8,128803
+VN9TYU,senior administrative assistant,2020,Boston,0,none,small_business,5,58288
+KVF18S,staff software engineer (security),2021,Seattle,0,masters,big_tech,8,302949
+PC7CX0,office administrator (finance),2020,San Francisco,0,bachelors,small_business,3,64384
+QEQDTA,systems administrator (SaaS),2016,Kansas City MO,0,bachelors,startup,2,65173
+FKANYF,staff mobile app developer (payments),2022,New York City,0,masters,corp,12,250341
+1LAIRJ,technical project manager (platform),2024,Orlando,0,bachelors,corp,2,117340
+KY3BE7,program manager (entry level),2021,Philadelphia,0,bachelors,corp,1,140904
+FRR7OJ,junior technical product manager (B2B),2023,Austin TX,0,bachelors,corp,0,166353
+BSNFD3,site reliability engineer (payments),2022,San Francisco,0,bachelors,big_tech,3,334882
+NVDARQ,program manager (entry level) (B2B),2024,Seattle,0,bachelors,big_tech,1,252348
+C9TUIS,mobile app developer (security),2019,Seattle,0,bachelors,big_tech,6,282718
+NEDARS,staff cloud infrastructure engineer,2023,Chicago,0,bachelors,small_business,9,160752
+HRG14U,senior frontend engineer (cloud),2024,Seattle,0,bachelors,big_tech,7,240879
+2EFGMW,site reliability engineer (distributed systems),2023,New York City,0,bachelors,corp,4,189952
+DETNHV,business analyst (entry level) (experimentation),2019,New York City,0,bachelors,corp,1,125718
+ZWBXUE,senior ML platform engineer (MLOps),2023,Raleigh NC,0,masters,big_tech,9,288363
+Z931NX,principal office administrator (operations),2019,San Francisco,0,none,corp,11,102329
+SZBN5E,product operations specialist (B2B),2021,Denver,0,bachelors,small_business,3,158826
+I8WDNG,frontend engineer (distributed systems),2022,Boston,1,bachelors,small_business,3,175997
+ZMBA00,analytics engineer (entry level),2022,San Francisco,0,bachelors,big_tech,1,169090
+0SUNAA,cloud infrastructure engineer (entry level) (cloud),2023,Denver,0,bachelors,big_tech,1,213188
+L0JB2L,applied scientist (NLP),2025,Austin TX,0,masters,startup,3,245383
+8QDX7K,analytics engineer (experimentation),2024,Seattle,0,masters,big_tech,6,217964
+Y9COJI,mobile app developer intern (security),2020,San Francisco,0,bachelors,startup,0,171869
+FTDU9Y,principal technical project manager (platform),2020,St. Louis,0,bachelors,big_tech,11,236354
+TA5C89,junior site reliability engineer (platform),2021,Philadelphia,0,bachelors,corp,0,103792
+2Y9BTG,lead administrative assistant (HR),2021,Denver,0,none,corp,11,58594
+MIIAFB,frontend engineer (security),2016,San Francisco,1,bachelors,small_business,6,167031
+T8Q220,senior BI analyst (experimentation),2023,Boulder,0,bachelors,small_business,7,136614
+KJXMDE,mobile app developer (new grad) (distributed systems),2016,Miami,0,masters,startup,1,146471
+EHBWKU,cloud infrastructure engineer (payments),2025,Denver,0,bachelors,big_tech,6,180183
+JUOYEG,full stack engineer (new grad) (distributed systems),2022,New York City,0,none,corp,1,125176
+MI5ZAQ,junior desktop support technician (SaaS),2019,Miami,0,bachelors,small_business,0,56550
+JQTCO2,backend engineer (new grad) (security),2024,Orlando,0,bachelors,corp,1,133631
+ULA4OS,business analyst (SQL),2024,Seattle,0,bachelors,corp,4,154001
+BZU9AF,BI analyst (experimentation),2016,Chicago,0,masters,corp,3,106506
+6FR4O6,business analyst intern (dashboarding),2024,Seattle,0,masters,big_tech,0,230199
+0T8K74,systems administrator (Windows/Mac),2019,Boston,0,bachelors,big_tech,3,106252
+VDDPCA,frontend engineer (entry level) (cloud),2023,New York City,0,bachelors,startup,1,144208
+KGPUTL,senior software engineer (cloud),2021,Boulder,0,bachelors,small_business,8,152947
+T5OR8M,junior software engineer (distributed systems),2019,Orlando,1,bachelors,big_tech,1,198892
+G8WY64,office administrator (finance),2017,Seattle,0,bachelors,startup,5,75540
+U215XH,backend engineer (cloud),2019,New York City,0,masters,big_tech,4,303290
+M6QY5J,lead desktop support technician,2024,New York City,0,none,corp,10,152991
+56DE8N,senior business analyst (SQL),2020,Philadelphia,0,bachelors,corp,7,117139
+8K3H9E,lead ML platform engineer (NLP),2025,New York City,0,masters,small_business,12,257160
+5LQ9KD,analytics engineer,2021,San Francisco,0,bachelors,startup,4,166264
+93W91J,junior cloud infrastructure engineer (platform),2018,Boston,0,bachelors,big_tech,1,170850
+ZXLN08,mobile app developer (distributed systems),2024,New York City,0,bachelors,startup,5,211456
+S0XC1P,junior BI analyst (experimentation),2021,San Francisco,0,bachelors,startup,0,147716
+5VPB9Q,lead desktop support technician,2020,New York City,0,none,corp,11,91950
+6VFDPF,technical project manager (entry level) (B2B),2024,Buffalo,0,bachelors,small_business,0,102294
+CEWRVQ,junior desktop support technician,2020,San Francisco,0,none,startup,1,113268
+2NEFJN,full stack engineer (platform),2021,Philadelphia,0,bachelors,corp,3,166233
+LKKA76,site reliability engineer (security),2025,New York City,0,none,big_tech,2,248267
+DZYF44,operations analyst (experimentation),2021,San Francisco,0,masters,corp,2,146971
+9CH2TE,network technician (Windows/Mac),2021,Seattle,0,bachelors,big_tech,2,112284
+1HNSG7,backend engineer,2020,San Francisco,0,bachelors,small_business,4,146780
+ZX6LQ2,cloud infrastructure engineer (new grad) (security),2022,San Francisco,0,masters,big_tech,1,234853
+EL8XQS,junior product manager (AI),2023,New York City,0,masters,startup,2,212535
+TU7J63,AI product engineer (entry level) (computer vision),2023,Buffalo,0,masters,corp,0,173741
+NZQHK6,analytics engineer (dashboarding),2017,Austin TX,0,bachelors,startup,3,124970
+RUJ07R,staff business analyst (dashboarding),2019,Seattle,0,bachelors,corp,13,156629
+MECNOE,senior principal research scientist (computer vision),2023,Raleigh NC,0,masters,startup,7,248250
+GQ4GNR,ML platform engineer (MLOps),2022,St. Louis,0,masters,big_tech,6,291330
+YHFSKV,junior full stack engineer (security),2022,Denver,0,masters,big_tech,2,237649
+3LFOGN,senior cloud infrastructure engineer (security),2024,Dallas,0,bachelors,corp,10,182986
+2LAOX5,junior software engineer (platform),2024,New York City,0,bachelors,startup,0,192263
+7BICMT,senior ML platform engineer (computer vision),2025,Denver,0,masters,small_business,7,223679
+EJC6XW,senior operations analyst (dashboarding),2019,Seattle,0,bachelors,startup,5,165095
+QFG4HS,cloud infrastructure engineer,2022,Seattle,1,bachelors,big_tech,2,203145
+QJKDBQ,senior backend engineer,2021,San Antonio,0,bachelors,big_tech,7,163580
+6Z9VWM,machine learning engineer (computer vision),2023,Buffalo,1,bachelors,startup,6,200915
+7ZVLU0,IT support technician (entry level) (networking),2021,Chicago,0,none,small_business,1,48963
+IHBF6S,principal product operations specialist,2021,Boston,0,bachelors,startup,14,300658
+ACPY31,senior operations analyst (SQL),2019,Seattle,0,none,small_business,6,106479
+EFGP1O,senior mobile app developer (platform),2024,New York City,0,masters,startup,9,304919
+21HJ34,technical project manager (new grad) (growth),2019,San Francisco,0,masters,corp,0,199403
+97PDEF,full stack engineer (new grad) (distributed systems),2021,San Francisco,0,bachelors,corp,0,128350
+9O597V,full stack engineer,2020,New York City,0,masters,corp,4,195449
+9J2CDV,NLP engineer (new grad) (LLMs),2021,Miami,0,bachelors,corp,0,130817
+9YWJVC,senior software engineer (security),2018,San Francisco,1,bachelors,startup,7,267732
+1IL2ZP,backend engineer intern (security),2024,Philadelphia,0,bachelors,startup,0,204850
+OER9DN,lead research scientist (generative models),2023,Raleigh NC,0,phd,corp,11,309575
+0IO055,frontend engineer intern (distributed systems),2020,Austin TX,0,bachelors,corp,0,113483
+H9WNI0,data analyst (experimentation),2022,Boulder,1,none,big_tech,5,153823
+IL1KL2,product operations specialist,2017,Seattle,0,none,startup,2,195484
+55YKPY,lead office coordinator,2021,San Francisco,0,bachelors,big_tech,9,132361
+C8WU8E,operations analyst,2023,San Francisco,1,bachelors,small_business,2,171096
+9DAOO9,junior mobile app developer,2018,San Francisco,0,bachelors,big_tech,2,215660
+AFJBER,software engineer (new grad) (security),2023,San Francisco,0,none,startup,0,169256
+SZYUF4,machine learning engineer,2021,Kansas City MO,0,bachelors,corp,4,111742
+P3WZYT,data analyst (entry level) (dashboarding),2024,Raleigh NC,1,bachelors,big_tech,1,181824
+TT9J1M,HR coordinator (new grad) (finance),2024,Boulder,0,none,corp,1,54378
+6QS6HL,senior backend engineer (cloud),2022,Seattle,1,bachelors,small_business,9,209425
+UA3B56,product operations specialist (B2B),2021,San Antonio,1,bachelors,small_business,2,122570
+LMGHMC,senior mobile app developer (payments),2021,Miami,0,none,startup,7,160650
+NXDP9M,senior systems administrator,2021,New York City,1,bachelors,corp,8,136215
+YC5HEY,machine learning engineer (new grad) (computer vision),2021,St. Louis,0,masters,startup,0,181773
+C3USMW,senior full stack engineer (payments),2023,Orlando,0,bachelors,big_tech,7,192642
+WQI8TB,junior site reliability engineer (security),2022,Chicago,0,bachelors,small_business,0,120003
+HHCM9Z,principal software engineer (payments),2021,Boston,0,bachelors,corp,11,231021
+GAL741,full stack engineer (cloud),2024,Seattle,0,bachelors,startup,5,236046
+CI2FYJ,backend engineer (distributed systems),2021,New York City,0,bachelors,startup,6,213409
+UP84IV,technical product manager (B2B),2018,Kansas City MO,0,bachelors,startup,5,156183
+UNGJZT,staff BI analyst,2021,Seattle,0,bachelors,small_business,11,183439
+0P53J4,junior mobile app developer (security),2020,Austin TX,0,none,startup,1,116312
+7VIMDK,network technician (networking),2021,New York City,0,none,big_tech,4,132934
+GED17K,senior machine learning engineer (recommendation systems),2021,Seattle,0,masters,big_tech,6,280884
+Q8I7EU,junior frontend engineer (payments),2023,San Francisco,0,masters,big_tech,0,306669
+QINV8X,senior full stack engineer,2024,San Antonio,0,masters,big_tech,9,196008
+U4JZFS,product manager,2024,San Francisco,0,none,big_tech,5,264985
+QP4QNJ,HR coordinator (operations),2024,San Francisco,0,none,big_tech,6,102548
+2PJ5MN,junior analytics engineer (dashboarding),2016,Orlando,0,bachelors,startup,1,75315
+9YX114,applied scientist (MLOps),2021,New York City,0,phd,big_tech,6,420000
+0F10IA,senior software engineer (payments),2018,Raleigh NC,0,bachelors,big_tech,8,181051
+LNJFWC,junior frontend engineer (distributed systems),2021,Seattle,0,bachelors,big_tech,1,194284
+17V9OG,lead operations analyst,2023,Seattle,0,none,corp,11,197018
+T8M8LA,desktop support technician (networking),2022,Boston,0,none,corp,2,86993
+9NOF2K,BI analyst (dashboarding),2024,Buffalo,0,bachelors,startup,3,91171
+9CAVSA,backend engineer intern (payments),2020,San Francisco,0,bachelors,corp,0,174172
+8TY0JQ,machine learning engineer intern (NLP),2022,San Francisco,0,masters,big_tech,0,278691
+TU26RS,frontend engineer,2024,Philadelphia,0,none,startup,3,189240
+6JPJ6Z,junior AI product engineer (recommendation systems),2025,San Francisco,0,masters,corp,2,278898
+AIES4U,site reliability engineer (payments),2017,New York City,0,bachelors,big_tech,4,244935
+1JWUP4,business analyst intern (dashboarding),2020,San Francisco,0,bachelors,startup,0,134594
+XOAACV,junior AI product engineer,2022,New York City,0,phd,startup,2,230965
+BQZWDK,backend engineer (cloud),2024,New York City,1,masters,small_business,3,196323
+HMA22L,senior systems administrator (SaaS),2023,San Francisco,0,none,big_tech,8,161343
+Z29X9B,junior operations analyst (SQL),2021,San Francisco,0,bachelors,big_tech,2,211727
+HTCMIJ,frontend engineer (payments),2019,Dallas,0,bachelors,corp,3,110511
+HVKLVN,mobile app developer,2025,Seattle,0,bachelors,corp,5,260542
+OJEFQR,office coordinator intern (operations),2022,San Francisco,0,none,corp,0,75957
+GPSZPA,junior systems administrator (Windows/Mac),2025,St. Louis,0,bachelors,startup,0,92439
+F2NFDF,principal data analyst,2018,Boulder,0,bachelors,startup,11,191712
+ZJ50V4,site reliability engineer (entry level) (cloud),2023,Seattle,0,bachelors,corp,0,214380
+MY9RLR,IT support technician (SaaS),2024,San Francisco,0,none,big_tech,2,143643
+9HYBGA,site reliability engineer (security),2021,New York City,0,bachelors,startup,5,217814
+B6XRJ8,analytics engineer (new grad) (experimentation),2017,New York City,0,none,corp,0,117282
+H3P9PK,lead full stack engineer,2018,Chicago,0,masters,corp,10,205218
+2MBLCV,program manager (entry level),2017,San Francisco,0,bachelors,corp,0,181592
+EV7SY8,lead software engineer (platform),2022,Buffalo,0,bachelors,startup,10,171806
+RCQ2KL,junior product manager (AI),2024,New York City,0,bachelors,startup,2,259633
+VIRVD5,junior data analyst (dashboarding),2018,Boston,0,bachelors,startup,2,153962
+6G6GFN,systems administrator,2024,Seattle,0,none,small_business,2,102149
+P956G8,"research scientist, computer vision intern (computer vision)",2023,Miami,0,phd,corp,0,192181
+OIRDEN,cloud infrastructure engineer (cloud),2020,New York City,0,bachelors,startup,5,259860
+GIIFJI,junior site reliability engineer (payments),2022,San Francisco,0,masters,small_business,0,150045
+0VLUTO,principal research scientist,2017,Austin TX,0,bachelors,corp,5,212474
+PNV6N6,junior analytics engineer (SQL),2019,San Francisco,0,bachelors,corp,2,125013
+REW3KX,mobile app developer (cloud),2018,Austin TX,0,bachelors,big_tech,2,153307
+AEXLFI,senior applied scientist (NLP),2021,Miami,0,bachelors,startup,6,169797
+TSA1DJ,office administrator (entry level) (HR),2020,Boston,0,none,small_business,0,43422
+6BBWM4,product manager,2023,Seattle,0,none,startup,3,157994
+KLCJJI,administrative assistant intern (operations),2020,San Francisco,0,none,big_tech,0,86161
+YIDIY4,backend engineer (new grad) (payments),2021,Raleigh NC,0,none,corp,1,99082
+W05D96,systems administrator (Windows/Mac),2020,San Francisco,0,bachelors,startup,3,132542
+PC9Y9Z,technical product manager intern (AI),2025,San Francisco,1,bachelors,startup,0,291416
+HE03GF,frontend engineer (distributed systems),2021,San Francisco,0,none,startup,2,186059
+14BPYT,"lead research scientist, NLP (applied ML)",2025,Miami,0,phd,big_tech,9,417696
+46PFW0,senior frontend engineer (payments),2023,St. Louis,0,bachelors,small_business,7,134521
+GVBK7X,principal HR coordinator (HR),2019,San Francisco,0,none,corp,12,90921
+SN656Z,mobile app developer,2024,Austin TX,0,masters,small_business,4,170885
+JF0FPP,mobile app developer (distributed systems),2022,Seattle,0,masters,startup,2,182368
+33SSQ4,technical project manager (entry level),2016,St. Louis,0,bachelors,corp,0,105560
+LV0BT7,junior business analyst (SQL),2023,New York City,1,bachelors,big_tech,0,203771
+EB8JWU,operations analyst,2022,Boston,0,none,small_business,3,108836
+A6V4EB,software engineer,2023,Denver,0,none,corp,5,120679
+UXXSP8,technical product manager intern (growth),2024,St. Louis,0,bachelors,small_business,0,119489
+Q03VX4,full stack engineer (cloud),2022,Boston,0,bachelors,startup,2,222542
+7RY1ST,junior backend engineer,2020,Boulder,0,bachelors,big_tech,0,183338
+G66IJ3,junior frontend engineer (distributed systems),2023,Little Rock AR,0,bachelors,big_tech,2,160598
+LS12G6,systems administrator,2019,Raleigh NC,0,bachelors,corp,5,84270
+YPOPY7,lead executive assistant (operations),2017,New York City,0,none,corp,9,81402
+QJI7N8,senior full stack engineer,2022,San Antonio,0,bachelors,big_tech,5,143265
+DUM2MN,junior administrative assistant (HR),2017,Miami,0,none,small_business,1,30543
+SBG9A7,principal frontend engineer (platform),2022,Dallas,0,bachelors,corp,11,175714
+S934WF,product manager (growth),2022,Orlando,0,bachelors,big_tech,6,167703
+NBQ38Y,senior BI analyst (experimentation),2020,Omaha NE,0,bachelors,big_tech,7,145843
+GSCZIJ,senior site reliability engineer (payments),2022,Orlando,0,bachelors,startup,9,157171
+F805IN,help desk specialist (SaaS),2025,St. Louis,0,none,small_business,2,46017
+M724CW,senior mobile app developer (platform),2025,San Francisco,0,bachelors,startup,5,268530
+TQGBUP,applied scientist (LLMs),2022,Seattle,0,bachelors,corp,3,178102
+HSFYAK,senior business analyst,2022,Seattle,1,none,corp,7,131223
+WVPHUR,BI analyst (entry level) (experimentation),2021,San Francisco,0,bachelors,corp,0,129758
+WZSZMI,mobile app developer (entry level) (payments),2025,Seattle,0,bachelors,corp,0,168929
+V1Y0J1,principal office administrator (operations),2021,St. Louis,0,bachelors,small_business,13,76086
+S85ODA,product manager (growth),2024,Seattle,0,bachelors,small_business,5,205385
+WDS75K,mobile app developer intern,2022,Austin TX,0,masters,big_tech,0,229205
